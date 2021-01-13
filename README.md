@@ -2,7 +2,7 @@
 
 1. Introduction to algorithms. Complexity.
   * Lecture:
-     - In development
+     - [Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/introduction.ipynb)
 
 2. Manipulation with bits.
   * Lecture:

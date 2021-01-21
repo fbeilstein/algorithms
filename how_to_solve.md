@@ -55,3 +55,6 @@ Basically, there is no general approach to solve any problem (obviously), but I 
    - Can you solve the problem "by hands" for one certain input?
    - Can you somehow transform your solution to something comprehensible by computer?
    - Draw the picture of how you are solving the problem.
+7. Best matching (if you need to find a tuple or tripple of certain elements that maximize or minimize certain condition)
+   - Suppose you know that one of these elements should definitely be X, can you find its mates?
+   - Suppose you iterate over all possible combinations, can you reject at least some of them immediately?

@@ -6,6 +6,7 @@
    - Can you restate the problem in your own words?
    - Do you understand all the limitations? Which parameters are integers and which are reals? Are some numbers strictly positive? How large are arrays? How long can be strings? If you program with C++ do some numbers overflow int? etc.
    - Can you think of at least one input and expected output?
+   - Draw the picture if that is possible.
 3. Create a test set of at least two inputs and expected outputs, make sure that you understand all corner cases. Draw the picture if that is possible.
 4. Think about solution in general, suppose that someone will provide you with a "magic library" that has all standard algorithms (e.g. quicksort) implemented. Sketch your solution. If no idea comes to your mind, see the next section.
 5. Try your solution on your testcases. Fix problems if they appear. If you spotted a fundamental flaw that cannot be fixed return to 4.

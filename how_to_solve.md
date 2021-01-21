@@ -27,8 +27,10 @@
 
 Basically, there is no general approach to solve any problem (obviously), but I tried to collect all the techniques that come to my mind and can be useful.
 
-1. Remember all similar problems, they may give you a hint which way to look for the solution.
-2. Simplify the problem -- its simpler version may give you some insights into the original problem
+1. Remember all similar problems, they may give you a hint which way to look for the solution
+2. Nonexisting constraints
+   - check that you did not restrict yourself more than the problem says (e.g. "find a number such that..." may mean "find _any_ number such that...", not the minimal or the maximal one)
+3. Simplify the problem -- its simpler version may give you some insights into the original problem
    * Perform simplification
        - if the problem considers many dimensions, try reducing them to 1 or 2
        - if the problem considers many elements, try solving the same for 2 or 3 elements
@@ -38,23 +40,23 @@ Basically, there is no general approach to solve any problem (obviously), but I 
        - can you solve the original problem now?
        - check if original problem can be reduced to the simplified version by some procedure
        - check if original problem is equivalent to the simplified version (maybe, you'll need to prove some statements)
-3. Mathematical induction approach
+4. Mathematical induction approach
    - Suppose, you have a function that solves the problem for N elements, can you solve it for N+1 ?
    - Suppose, you have a function that solves the problem for N elements, can you solve it for 2*N ?
-4. Split the problem
+5. Split the problem
    - Can you represent the problem as few subproblems and solve them separately?
    - Are there any additional data that may help you?
    - Can you solve the problem if you have these data?
    - Can it be more easy to focus on obtaining these data instead of the original problem?
-5. Special cases
+6. Special cases
    - Are there any restrictions that may help you to solve the problem?
    - Apply these restrictions and solve the problem.
    - Can you think on how to solve the problem without restrictions?
    - Can you find a method of reducing the original problem to the restricted problem?
-6. One particular case
+7. One particular case
    - Can you solve the problem "by hands" for one certain input?
    - Can you somehow transform your solution to something comprehensible by computer?
    - Draw the picture of how you are solving the problem.
-7. Best matching (if you need to find a tuple or tripple of certain elements that maximize or minimize certain condition)
+8. Best matching (if you need to find a tuple or tripple of certain elements that maximize or minimize certain condition)
    - Suppose you know that one of these elements should definitely be X, can you find its mates?
    - Suppose you iterate over all possible combinations, can you reject at least some of them immediately?

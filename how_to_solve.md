@@ -54,3 +54,4 @@ Basically, there is no general approach to solve any problem (obviously), but I 
 6. One particular case
    - Can you solve the problem "by hands" for one certain input?
    - Can you somehow transform your solution to something comprehensible by computer?
+   - Draw the picture of how you are solving the problem.

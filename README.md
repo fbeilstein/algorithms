@@ -4,7 +4,9 @@
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/introduction.ipynb)
   * LeetCode to Solve
   <table>
-  <thead> <tr> <th>#</th> <th>Problem</th> </tr> </thead>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> 
+  </tr></thead>
   <tbody>
     <tr>
       <td>1.</td> <td><a href="https://leetcode.com/problems/ugly-number/">Ugly Number</td>

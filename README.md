@@ -1,18 +1,44 @@
 # algorithms (in development)
 
-1. Introduction to algorithms. Complexity.
+1. Introduction to algorithms. Complexity. O-notation.
   * Lecture:
      - [Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/introduction.ipynb)
 
-2. Manipulation with bits.
+2. Arrays.
+
+3. Strings.
+
+4. Hash Maps.
+
+5. Lists. Difference Between Iterative and Recursive Approaches.
+
+6. Binary Tree.
+
+7. Manipulating bits. Storing Tree as Array. Fenwick Tree (Binary Index Tree).
   * Lecture:
-     - In development
+     - [Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/fenwick_tree.ipynb)
   * Further Resources:
      - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 
-3. Fenwick Tree (Binary Index Tree)
-  * Lecture:
-     - [Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/fenwick_tree.ipynb)
+8. Dynamic Programming
+
+9. Sorting.
+
+10. Heap. Heap Sort.
+
+12. Stack. Queue.
+
+11. Introduction to Graphs. BFS. DFS.
+
+12. Combinatorial Problems.
+
+13. FFT.
+
+14. ...undecided
+
+15. ...undecided
+
+16. ...undecided
 
 ## How to solve the unsolvable
 

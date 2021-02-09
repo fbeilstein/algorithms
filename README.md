@@ -3,6 +3,7 @@
 1. Introduction to algorithms. Complexity. O-notation.
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/introduction.ipynb)
   * LeetCode to Solve
+  <center>
   <table>
 <thead>
 <tr>
@@ -17,6 +18,7 @@
 </tr>
 </tbody>
 </table>
+ </center>
 
 2. Arrays.
 

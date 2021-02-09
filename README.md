@@ -1,6 +1,6 @@
 # algorithms (in development)
 
-1. Introduction to algorithms. Complexity. O-notation.
+1. **Introduction to algorithms. Complexity. O-notation.**
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/introduction.ipynb)
   * LeetCode to Solve
   <table>
@@ -15,35 +15,35 @@
   </tbody>
   </table>
 
-2. Arrays.
+2. **Arrays.**
 
-3. Strings.
+3. **Strings.**
 
-4. Hash Maps.
+4. **Hash Maps.**
 
-5. Lists. Difference Between Iterative and Recursive Approaches.
+5. **Lists. Difference Between Iterative and Recursive Approaches.**
 
-6. Binary Tree.
+6. **Binary Tree.**
 
-7. Manipulating bits. Storing Tree as Array. Fenwick Tree (Binary Index Tree).
+7. **Manipulating bits. Storing Tree as Array. Fenwick Tree (Binary Index Tree).**
   * Lecture:
      - [Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/fenwick_tree.ipynb)
   * Further Resources:
      - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 
-8. Dynamic Programming
+8. **Dynamic Programming**
 
-9. Sorting.
+9. **Sorting.**
 
-10. Heap. Heap Sort.
+10. **Heap. Heap Sort.**
 
-12. Stack. Queue.
+12. **Stack. Queue.**
 
-11. Introduction to Graphs. BFS. DFS.
+11. **Introduction to Graphs. BFS. DFS.**
 
-12. Combinatorial Problems.
+12. **Combinatorial Problems.**
 
-13. FFT.
+13. **FFT.**
 
 14. ...undecided
 

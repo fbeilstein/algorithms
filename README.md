@@ -6,7 +6,10 @@
   <table>
   <thead> <tr> <th>#</th> <th>Problem</th> </tr> </thead>
   <tbody>
-    <tr> <td>1.</td> <td><a href="https://leetcode.com/problems/ugly-number/">Ugly Number</td></tr>
+    <tr>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/ugly-number/">Ugly Number</td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/reverse-integer/">Reverse Integer</td>
+    </tr>
   </tbody>
   </table>
 

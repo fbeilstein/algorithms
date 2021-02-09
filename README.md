@@ -1,8 +1,22 @@
 # algorithms (in development)
 
 1. Introduction to algorithms. Complexity. O-notation.
-  * Lecture:
-     - [Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/introduction.ipynb)
+  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/introduction.ipynb)
+  * LeetCode to Solve
+  <table>
+<thead>
+<tr>
+<th>foo</th>
+<th>bar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>baz</td>
+<td>bim</td>
+</tr>
+</tbody>
+</table>
 
 2. Arrays.
 

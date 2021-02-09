@@ -3,22 +3,12 @@
 1. Introduction to algorithms. Complexity. O-notation.
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/introduction.ipynb)
   * LeetCode to Solve
-  <center>
   <table>
-<thead>
-<tr>
-<th>foo</th>
-<th>bar</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>baz</td>
-<td>bim</td>
-</tr>
-</tbody>
-</table>
- </center>
+  <thead> <tr> <th>#</th> <th>Problem</th> </tr> </thead>
+  <tbody>
+    <tr> <td>1.</td> <td><a href="https://leetcode.com/problems/ugly-number/">Ugly Number</td></tr>
+  </tbody>
+  </table>
 
 2. Arrays.
 

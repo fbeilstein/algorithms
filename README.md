@@ -24,6 +24,18 @@
 5. **Lists. Difference Between Iterative and Recursive Approaches.**
 
 6. **Binary Tree.**
+  * LeetCode to Solve
+  <table>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/diameter-of-binary-tree/">Diameter of Binary Tree</td>
+    </tr>
+  </tbody>
+  </table>
+
 
 7. **Manipulating bits. Storing Tree as Array. Fenwick Tree (Binary Index Tree).**
   * Lecture:

@@ -28,6 +28,17 @@
 7. **Manipulating bits. Storing Tree as Array. Fenwick Tree (Binary Index Tree).**
   * Lecture:
      - [Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/fenwick_tree.ipynb)
+  * LeetCode to Solve
+  <table>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/">Find Elements in a Contaminated Binary Tree</td>
+    </tr>
+  </tbody>
+  </table>
   * Further Resources:
      - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 
@@ -35,7 +46,7 @@
 
 9. **Sorting.**
 
-10. **Heap. Heap Sort.**
+10. **Heap. Heap Sort. Priority Queue.**
 
 12. **Stack. Queue.**
 

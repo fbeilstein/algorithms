@@ -4,7 +4,7 @@
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/introduction.ipynb)
   <table>
   <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> 
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
   </tr></thead>
   <tbody>
     <tr>

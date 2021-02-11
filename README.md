@@ -26,6 +26,19 @@
 
 2. **Arrays.**
 
+  <table>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <!--<th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> -->
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/">Sqrt(x)</td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/range-addition-ii/">Ugly Number</td>
+    </tr>
+  </tbody>
+  </table>
+
+
 3. **Strings.**
 
 4. **Hash Maps.**

@@ -33,7 +33,6 @@
 5. **Lists. Difference Between Iterative and Recursive Approaches.**
 
 6. **Binary Tree.**
-  * LeetCode to Solve
   <table>
   <thead><tr> 
      <th>#</th> <th>Problem</th>
@@ -52,7 +51,7 @@
   * LeetCode to Solve
   <table>
   <thead><tr> 
-     <th>#</th> <th>Problem</th>
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
   </tr></thead>
   <tbody>
     <tr>

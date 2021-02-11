@@ -2,15 +2,17 @@
 
 1. **Introduction to algorithms. Complexity. O-notation.**
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/introduction.ipynb)
-  * LeetCode to Solve
   <table>
   <thead><tr> 
      <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> 
   </tr></thead>
   <tbody>
     <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/ugly-number/">Ugly Number</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/reverse-integer/">Reverse Integer</td>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/sqrtx/">Sqrt(x)</td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/ugly-number/">Ugly Number</td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/reverse-integer/">Reverse Integer</td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/palindrome-number/solution/">Palindrome Number</td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/powx-n/">Pow(x, n)</td>
     </tr>
   </tbody>
   </table>
@@ -47,7 +49,8 @@
   </tr></thead>
   <tbody>
     <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/">Find Elements in a Contaminated Binary Tree</td>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/single-number/">Single Number</td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/">Find Elements in a Contaminated Binary Tree</td>
     </tr>
   </tbody>
   </table>

@@ -32,8 +32,8 @@
   </tr></thead>
   <tbody>
     <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/">Sqrt(x)</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/range-addition-ii/">Ugly Number</td>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/">Minimum Value to Get Positive Step by Step Sum</td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/range-addition-ii/">Range Addition II</td>
     </tr>
   </tbody>
   </table>

@@ -14,6 +14,13 @@
       <td>4.</td> <td><a href="https://leetcode.com/problems/palindrome-number/solution/">Palindrome Number</td>
       <td>5.</td> <td><a href="https://leetcode.com/problems/powx-n/">Pow(x, n)</td>
     </tr>
+    <tr>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/water-and-jug-problem/">Water and Jug Problem</td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/nth-digit/">Nth Digit</td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/random-pick-with-weight/">Random Pick with Weight</td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/bulb-switcher/">Bulb Switcher</td>
+      <td>9.</td> <td><a href="https://leetcode.com/problems/bulb-switcher-ii/">Bulb Switcher II</td>
+    </tr>
   </tbody>
   </table>
 

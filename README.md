@@ -34,6 +34,9 @@
     <tr>
       <td>1.</td> <td><a href="https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/">Minimum Value to Get Positive Step by Step Sum</td>
       <td>2.</td> <td><a href="https://leetcode.com/problems/range-addition-ii/">Range Addition II</td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/n-repeated-element-in-size-2n-array/">N-Repeated Element in Size 2N Array</td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/">How Many Numbers Are Smaller Than the Current Number</td>
     </tr>
   </tbody>
   </table>

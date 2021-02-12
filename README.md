@@ -80,6 +80,17 @@
 8. **Dynamic Programming**
 
 9. **Sorting.**
+  <table>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/insertion-sort-list/">Insertion Sort List</td>
+    </tr>
+  </tbody>
+  </table>
+
 
 10. **Heap. Heap Sort. Priority Queue.**
 

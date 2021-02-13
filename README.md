@@ -45,7 +45,9 @@
       <td>9.</td> <td><a href="https://leetcode.com/problems/longest-continuous-increasing-subsequence/">Longest Continuous Increasing Subsequence</td>
       <td>10.</td> <td><a href="https://leetcode.com/problems/defuse-the-bomb/">Defuse the Bomb</td>
     </tr> 
-     
+    <tr>
+      <td>11.</td> <td><a href="https://leetcode.com/problems/valid-mountain-array/">Valid Mountain Array</td>
+    </tr> 
   </tbody>
   </table>
 

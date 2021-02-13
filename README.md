@@ -86,6 +86,7 @@ https://leetcode.com/problems/insert-into-a-binary-search-tree/
 https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
 https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
 
 
 7. **Manipulating bits. Storing Tree as Array. Fenwick Tree (Binary Index Tree).**

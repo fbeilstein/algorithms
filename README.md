@@ -104,6 +104,7 @@ https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strin
     </tr>
   </tbody>
   </table>
+  https://leetcode.com/problems/power-of-two/discuss/1050246/basic
   
   * Further Resources:
      - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)

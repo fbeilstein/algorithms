@@ -38,6 +38,14 @@
       <td>4.</td> <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</td>
       <td>5.</td> <td><a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/">How Many Numbers Are Smaller Than the Current Number</td>
     </tr>
+    <tr>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/">Detect Pattern of Length M Repeated K or More Times</td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/move-zeroes/">Move Zeroes</td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/most-visited-sector-in-a-circular-track/">Most Visited Sector in a Circular Track</td>
+      <td>9.</td> <td><a href="https://leetcode.com/problems/longest-continuous-increasing-subsequence/">Longest Continuous Increasing Subsequence</td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/defuse-the-bomb/">Defuse the Bomb</td>
+    </tr> 
+     
   </tbody>
   </table>
 

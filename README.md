@@ -69,6 +69,23 @@
     </tr>
   </tbody>
   </table>
+  https://leetcode.com/problems/sum-root-to-leaf-numbers/
+  https://leetcode.com/problems/sum-of-left-leaves/
+  https://leetcode.com/problems/range-sum-of-bst/
+https://leetcode.com/problems/maximum-depth-of-binary-tree/
+https://leetcode.com/problems/minimum-depth-of-binary-tree/
+https://leetcode.com/problems/invert-binary-tree/
+https://leetcode.com/problems/univalued-binary-tree/
+https://leetcode.com/problems/same-tree/
+https://leetcode.com/problems/symmetric-tree
+https://leetcode.com/problems/binary-tree-tilt/
+https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
+https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/
+https://leetcode.com/problems/trim-a-binary-search-tree/
+https://leetcode.com/problems/insert-into-a-binary-search-tree/
+https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
+https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 
 
 7. **Manipulating bits. Storing Tree as Array. Fenwick Tree (Binary Index Tree).**

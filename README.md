@@ -108,7 +108,7 @@
       <td>16.</td> <td><a href="https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/">Minimum Time to Collect All Apples in a Tree</td>
       <td>17.</td> <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">Lowest Common Ancestor of a Binary Search Tree</td>
       <td>18.</td> <td><a href="https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/">The k-th Lexicographical String of All Happy Strings of Length n</td>
-      <td></td> <td><a href=""></td>
+      <td></td> <td><a href="https://leetcode.com/problems/search-in-a-binary-search-tree/">Search in a Binary Search Tree</td>
       <td></td> <td><a href=""></td>
     </tr>
   </tbody>

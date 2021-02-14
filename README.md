@@ -58,9 +58,20 @@
 
 3. **Strings.**
 
-https://leetcode.com/problems/reverse-string/
-https://leetcode.com/problems/reverse-string-ii/
-https://leetcode.com/problems/reverse-vowels-of-a-string/
+  <table>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/reverse-string-ii/">Reverse String II</td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">Reverse Vowels of a String</td>
+      <td></td> <td></td>
+      <td></td> <td></td>
+    </tr>
+  </tbody>
+  </table>
 
 4. **Hash Maps.**
 

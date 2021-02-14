@@ -50,9 +50,15 @@
     </tr> 
   </tbody>
   </table>
+  https://leetcode.com/problems/arithmetic-slices/
+  https://leetcode.com/problems/rotate-image/
 
 
 3. **Strings.**
+
+https://leetcode.com/problems/reverse-string/
+https://leetcode.com/problems/reverse-string-ii/
+https://leetcode.com/problems/reverse-vowels-of-a-string/
 
 4. **Hash Maps.**
 

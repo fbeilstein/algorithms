@@ -40,16 +40,16 @@
     </tr>
     <tr>
       <td>6.</td> <td><a href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/arithmetic-slices/">Arithmetic Slices</td>
-      <td>9.</td> <td><a href="https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/">Detect Pattern of Length M Repeated K or More Times</td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/longest-continuous-increasing-subsequence/">Longest Continuous Increasing Subsequence</td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak Index in a Mountain Array</td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</td>
+      <td>9.</td> <td><a href="https://leetcode.com/problems/arithmetic-slices/">Arithmetic Slices</td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/">Detect Pattern of Length M Repeated K or More Times</td>
     </tr> 
     <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/valid-mountain-array/">Valid Mountain Array</td>
-      <td>12.</td> <td><a href="https://leetcode.com/problems/defuse-the-bomb/">Defuse the Bomb</td>
-      <td>13.</td> <td><a href="https://leetcode.com/problems/most-visited-sector-in-a-circular-track/">Most Visited Sector in a Circular Track</td>
-      <td></td> <td></td>
+      <td>11.</td> <td><a href="https://leetcode.com/problems/longest-continuous-increasing-subsequence/">Longest Continuous Increasing Subsequence</td>
+      <td>12.</td> <td><a href="https://leetcode.com/problems/valid-mountain-array/">Valid Mountain Array</td>
+      <td>13.</td> <td><a href="https://leetcode.com/problems/defuse-the-bomb/">Defuse the Bomb</td>
+      <td>14.</td> <td><a href="https://leetcode.com/problems/most-visited-sector-in-a-circular-track/">Most Visited Sector in a Circular Track</td>
       <td></td> <td></td>
     </tr>
   </tbody>

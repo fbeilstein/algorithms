@@ -76,6 +76,22 @@
 4. **Hash Maps.**
 
 5. **Lists. Difference Between Iterative and Recursive Approaches.**
+  <table>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/delete-node-in-a-linked-list/">Delete Node in a Linked List</td>
+      <td></td> <td><a href=""></td>
+      <td></td> <td><a href=""></td>
+      <td></td> <td><a href=""></td>
+      <td></td> <td><a href=""></td>
+    </tr>
+  </tbody>
+  </table>
+
+
 
 6. **Binary Tree.**
   <table>

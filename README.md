@@ -72,6 +72,28 @@
     </tr>
   </tbody>
   </table>
+  https://leetcode.com/problems/buddy-strings/
+  https://leetcode.com/problems/long-pressed-name/
+  https://leetcode.com/problems/1-bit-and-2-bit-characters/
+  https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+  https://leetcode.com/problems/maximum-number-of-balloons/
+  https://leetcode.com/problems/maximum-score-after-splitting-a-string/
+  https://leetcode.com/problems/largest-substring-between-two-equal-characters/
+  https://leetcode.com/problems/is-subsequence/
+  https://leetcode.com/problems/consecutive-characters/
+  https://leetcode.com/problems/reverse-string-ii/
+  https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/
+  https://leetcode.com/problems/maximum-repeating-substring/
+  https://leetcode.com/problems/ransom-note/
+  https://leetcode.com/problems/make-the-string-great/
+  https://leetcode.com/problems/shortest-distance-to-a-character/
+  https://leetcode.com/problems/length-of-last-word/
+  https://leetcode.com/problems/count-and-say/
+  https://leetcode.com/problems/greatest-common-divisor-of-strings/
+  https://leetcode.com/problems/license-key-formatting/
+  https://leetcode.com/problems/add-strings/
+  https://leetcode.com/problems/reformat-phone-number/
+  
 
 4. **Hash Maps.**
 

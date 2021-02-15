@@ -67,33 +67,25 @@
       <td>1.</td> <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</td>
       <td>2.</td> <td><a href="https://leetcode.com/problems/reverse-string-ii/">Reverse String II</td>
       <td>3.</td> <td><a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">Reverse Vowels of a String</td>
-      <td></td> <td></td>
-      <td></td> <td></td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/">Maximum Nesting Depth of the Parentheses</td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/1-bit-and-2-bit-characters/">1-bit and 2-bit Characters</td>
+    </tr>
+    <tr>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">Maximum Score After Splitting a String</td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/long-pressed-name/">Long Pressed Name</td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/is-subsequence/">Is Subsequence</td>
+      <td>9.</td> <td><a href="https://leetcode.com/problems/add-strings/">Add Strings</td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/ransom-note/">Ransom Note</td>
+    </tr>
+    <tr>
+      <td>11.</td> <td><a href="https://leetcode.com/problems/maximum-number-of-balloons/">Maximum Number of Balloons</td>
+      <td>12.</td> <td><a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters/">Largest Substring Between Two Equal Characters</td>
+      <td>13.</td> <td><a href="https://leetcode.com/problems/consecutive-characters/">Consecutive Characters</td>
+      <td>14.</td> <td><a href="https://leetcode.com/problems/count-and-say/">Count and Say</td>
+      <td>15.</td> <td><a href="https://leetcode.com/problems/shortest-distance-to-a-character/">Shortest Distance to a Character</td>
     </tr>
   </tbody>
   </table>
-  https://leetcode.com/problems/buddy-strings/
-  https://leetcode.com/problems/long-pressed-name/
-  https://leetcode.com/problems/1-bit-and-2-bit-characters/
-  https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
-  https://leetcode.com/problems/maximum-number-of-balloons/
-  https://leetcode.com/problems/maximum-score-after-splitting-a-string/
-  https://leetcode.com/problems/largest-substring-between-two-equal-characters/
-  https://leetcode.com/problems/is-subsequence/
-  https://leetcode.com/problems/consecutive-characters/
-  https://leetcode.com/problems/reverse-string-ii/
-  https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/
-  https://leetcode.com/problems/maximum-repeating-substring/
-  https://leetcode.com/problems/ransom-note/
-  https://leetcode.com/problems/make-the-string-great/
-  https://leetcode.com/problems/shortest-distance-to-a-character/
-  https://leetcode.com/problems/length-of-last-word/
-  https://leetcode.com/problems/count-and-say/
-  https://leetcode.com/problems/greatest-common-divisor-of-strings/
-  https://leetcode.com/problems/license-key-formatting/
-  https://leetcode.com/problems/add-strings/
-  https://leetcode.com/problems/reformat-phone-number/
-  
 
 4. **Hash Maps.**
 

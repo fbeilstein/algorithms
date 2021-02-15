@@ -50,7 +50,7 @@
       <td>12.</td> <td><a href="https://leetcode.com/problems/valid-mountain-array/">Valid Mountain Array</td>
       <td>13.</td> <td><a href="https://leetcode.com/problems/defuse-the-bomb/">Defuse the Bomb</td>
       <td>14.</td> <td><a href="https://leetcode.com/problems/most-visited-sector-in-a-circular-track/">Most Visited Sector in a Circular Track</td>
-      <td></td> <td></td>
+      <td>15.</td> <td><a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</td>
     </tr>
   </tbody>
   </table>

@@ -184,15 +184,13 @@
 
 10. **Heap. Heap Sort. Priority Queue.**
 
-12. **Stack. Queue.**
+11. **Stack. Queue.**
 
-11. **Introduction to Graphs. BFS. DFS.**
+12. **Introduction to Graphs. BFS. DFS.**
 
-12. **Combinatorial Problems.**
+13. **Combinatorial Problems.**
 
-13. **FFT.**
-
-14. ...undecided
+14. **FFT.**
 
 15. ...undecided
 

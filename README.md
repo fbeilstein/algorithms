@@ -56,7 +56,24 @@
   </table>
 
 
-3. **Strings.**
+3. **Lists. Difference Between Iterative and Recursive Approaches.**
+  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lists.ipynb)
+  <table>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/delete-node-in-a-linked-list/">Delete Node in a Linked List</td>
+      <td></td> <td><a href=""></td>
+      <td></td> <td><a href=""></td>
+      <td></td> <td><a href=""></td>
+      <td></td> <td><a href=""></td>
+    </tr>
+  </tbody>
+  </table>
+
+4. **Strings.**
 
   <table>
   <thead><tr> 
@@ -87,7 +104,7 @@
   </tbody>
   </table>
 
-4. **Hash Maps.**
+5. **Hash Maps.**
 
   <table>
   <thead><tr> 
@@ -103,25 +120,6 @@
     </tr>
   </tbody>
   </table>
-
-
-5. **Lists. Difference Between Iterative and Recursive Approaches.**
-  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lists.ipynb)
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/delete-node-in-a-linked-list/">Delete Node in a Linked List</td>
-      <td></td> <td><a href=""></td>
-      <td></td> <td><a href=""></td>
-      <td></td> <td><a href=""></td>
-      <td></td> <td><a href=""></td>
-    </tr>
-  </tbody>
-  </table>
-
 
 
 6. **Binary Tree.**

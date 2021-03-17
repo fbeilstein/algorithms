@@ -65,10 +65,10 @@
   <tbody>
     <tr>
       <td>1.</td> <td><a href="https://leetcode.com/problems/delete-node-in-a-linked-list/">Delete Node in a Linked List</td>
-      <td></td> <td><a href=""></td>
-      <td></td> <td><a href=""></td>
-      <td></td> <td><a href=""></td>
-      <td></td> <td><a href=""></td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/linked-list-cycle/">Linked List Cycle</td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">Intersection of Two Linked Lists</td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/palindrome-linked-list/">Palindrome Linked List</td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</td>
     </tr>
   </tbody>
   </table>

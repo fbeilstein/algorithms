@@ -70,8 +70,24 @@
       <td>4.</td> <td><a href="https://leetcode.com/problems/palindrome-linked-list/">Palindrome Linked List</td>
       <td>5.</td> <td><a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</td>
     </tr>
+    <tr>
+     <td>6.</td> <td><a href="https://leetcode.com/problems/odd-even-linked-list/">Odd Even Linked List</td>
+     <td>7.</td> <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/">Remove Duplicates from Sorted List II</td>
+     <td>8.</td> <td><a href="https://leetcode.com/problems/merge-in-between-linked-lists/">Merge In Between Linked Lists</td>
+     <td>9.</td> <td><a href="https://leetcode.com/problems/reverse-linked-list-ii/">Reverse Linked List II</td>
+     <td>10.</td> <td><a href="https://leetcode.com/problems/next-greater-node-in-linked-list/">Next Greater Node In Linked List</td>
+    </tr>
+    <tr>
+     <td>11.</td> <td><a href="https://leetcode.com/problems/split-linked-list-in-parts/">Split Linked List in Parts</td>
+     <td></td> <td><a href=""></td>
+     <td></td> <td><a href=""></td>
+     <td></td> <td><a href=""></td>
+     <td></td> <td><a href=""></td>
+    </tr>
   </tbody>
   </table>
+  
+  
 
 4. **Strings.**
 

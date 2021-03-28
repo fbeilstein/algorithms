@@ -41,7 +41,7 @@
     <tr>
       <td>6.</td> <td><a href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</td>
       <td>7.</td> <td><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak Index in a Mountain Array</td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/find-the-duplicate-number/">Find the Duplicate Number</td>
       <td>9.</td> <td><a href="https://leetcode.com/problems/arithmetic-slices/">Arithmetic Slices</td>
       <td>10.</td> <td><a href="https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/">Detect Pattern of Length M Repeated K or More Times</td>
     </tr> 

@@ -200,6 +200,21 @@
 
 8. **Dynamic Programming**
 
+  <table>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/partition-array-for-maximum-sum/">Partition Array for Maximum Sum</td>
+      <td>2.</td> <td><a href=""></td>
+      <td>3.</td> <td><a href=""></td>
+      <td>4.</td> <td><a href=""></td>
+      <td>5.</td> <td><a href="h"></td>
+    </tr>
+  </tbody>
+  </table>
+
 9. **Sorting.**
   <table>
   <thead><tr> 

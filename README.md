@@ -189,6 +189,8 @@
       <td>1.</td> <td><a href="https://leetcode.com/problems/single-number/">Single Number</td>
       <td>2.</td> <td><a href="https://leetcode.com/problems/power-of-two/">Power of Two</td>
       <td>3.</td> <td><a href="https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/">Find Elements in a Contaminated Binary Tree</td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square/">Determine Color of a Chessboard Square</td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/">Maximum Nesting Depth of Two Valid Parentheses Strings</td>
     </tr>
   </tbody>
   </table>

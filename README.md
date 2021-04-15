@@ -231,13 +231,158 @@
 
 10. **Heap. Heap Sort. Priority Queue.**
 
+  <table>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1.</td> <td><a href=""></td>
+      <td>2.</td> <td><a href=""></td>
+      <td>3.</td> <td><a href=""></td>
+      <td>4.</td> <td><a href=""></td>
+      <td>5.</td> <td><a href=""></td>
+    </tr>
+    <tr>
+      <td>6.</td> <td><a href=""></td>
+      <td>7.</td> <td><a href=""></td>
+      <td>8.</td> <td><a href=""></td>
+      <td>9.</td> <td><a href=""></td>
+      <td>10.</td> <td><a href=""></td>
+    </tr>
+    <tr>
+      <td>11.</td> <td><a href=""></td>
+      <td>12.</td> <td><a href=""></td>
+      <td>13.</td> <td><a href=""></td>
+      <td>14.</td> <td><a href=""></td>
+      <td>15.</td> <td><a href=""></td>
+    </tr>
+  </tbody>
+  </table>
+
 11. **Stack. Queue.**
+
+  <table>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1.</td> <td><a href=""></td>
+      <td>2.</td> <td><a href=""></td>
+      <td>3.</td> <td><a href=""></td>
+      <td>4.</td> <td><a href=""></td>
+      <td>5.</td> <td><a href=""></td>
+    </tr>
+    <tr>
+      <td>6.</td> <td><a href=""></td>
+      <td>7.</td> <td><a href=""></td>
+      <td>8.</td> <td><a href=""></td>
+      <td>9.</td> <td><a href=""></td>
+      <td>10.</td> <td><a href=""></td>
+    </tr>
+    <tr>
+      <td>11.</td> <td><a href=""></td>
+      <td>12.</td> <td><a href=""></td>
+      <td>13.</td> <td><a href=""></td>
+      <td>14.</td> <td><a href=""></td>
+      <td>15.</td> <td><a href=""></td>
+    </tr>
+  </tbody>
+  </table>
 
 12. **Introduction to Graphs. BFS. DFS.**
 
+  <table>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1.</td> <td><a href=""></td>
+      <td>2.</td> <td><a href=""></td>
+      <td>3.</td> <td><a href=""></td>
+      <td>4.</td> <td><a href=""></td>
+      <td>5.</td> <td><a href=""></td>
+    </tr>
+    <tr>
+      <td>6.</td> <td><a href=""></td>
+      <td>7.</td> <td><a href=""></td>
+      <td>8.</td> <td><a href=""></td>
+      <td>9.</td> <td><a href=""></td>
+      <td>10.</td> <td><a href=""></td>
+    </tr>
+    <tr>
+      <td>11.</td> <td><a href=""></td>
+      <td>12.</td> <td><a href=""></td>
+      <td>13.</td> <td><a href=""></td>
+      <td>14.</td> <td><a href=""></td>
+      <td>15.</td> <td><a href=""></td>
+    </tr>
+  </tbody>
+  </table>
+
 13. **Combinatorial Problems.**
 
+  <table>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1.</td> <td><a href=""></td>
+      <td>2.</td> <td><a href=""></td>
+      <td>3.</td> <td><a href=""></td>
+      <td>4.</td> <td><a href=""></td>
+      <td>5.</td> <td><a href=""></td>
+    </tr>
+    <tr>
+      <td>6.</td> <td><a href=""></td>
+      <td>7.</td> <td><a href=""></td>
+      <td>8.</td> <td><a href=""></td>
+      <td>9.</td> <td><a href=""></td>
+      <td>10.</td> <td><a href=""></td>
+    </tr>
+    <tr>
+      <td>11.</td> <td><a href=""></td>
+      <td>12.</td> <td><a href=""></td>
+      <td>13.</td> <td><a href=""></td>
+      <td>14.</td> <td><a href=""></td>
+      <td>15.</td> <td><a href=""></td>
+    </tr>
+  </tbody>
+  </table>
+
 14. **FFT.**
+
+  <table>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1.</td> <td><a href=""></td>
+      <td>2.</td> <td><a href=""></td>
+      <td>3.</td> <td><a href=""></td>
+      <td>4.</td> <td><a href=""></td>
+      <td>5.</td> <td><a href=""></td>
+    </tr>
+    <tr>
+      <td>6.</td> <td><a href=""></td>
+      <td>7.</td> <td><a href=""></td>
+      <td>8.</td> <td><a href=""></td>
+      <td>9.</td> <td><a href=""></td>
+      <td>10.</td> <td><a href=""></td>
+    </tr>
+    <tr>
+      <td>11.</td> <td><a href=""></td>
+      <td>12.</td> <td><a href=""></td>
+      <td>13.</td> <td><a href=""></td>
+      <td>14.</td> <td><a href=""></td>
+      <td>15.</td> <td><a href=""></td>
+    </tr>
+  </tbody>
+  </table>
 
 15. ...undecided
 

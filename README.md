@@ -198,7 +198,24 @@
   * Further Resources:
      - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 
-8. **Dynamic Programming**
+8. **Divide and Conquer**
+
+  <table>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/beautiful-array/">Beautiful Array</td>
+      <td>2.</td> <td><a href=""></td>
+      <td>3.</td> <td><a href=""></td>
+      <td>4.</td> <td><a href=""></td>
+      <td>5.</td> <td><a href=""></td>
+    </tr>
+  </tbody>
+  </table>
+
+9. **Dynamic Programming**
 
   <table>
   <thead><tr> 
@@ -215,7 +232,7 @@
   </tbody>
   </table>
 
-9. **Sorting.**
+10. **Sorting.**
   <table>
   <thead><tr> 
      <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
@@ -229,7 +246,7 @@
   </table>
 
 
-10. **Heap. Heap Sort. Priority Queue.**
+11. **Heap. Heap Sort. Priority Queue.**
 
   <table>
   <thead><tr> 
@@ -260,7 +277,7 @@
   </tbody>
   </table>
 
-11. **Stack. Queue.**
+12. **Stack. Queue.**
 
   <table>
   <thead><tr> 
@@ -291,7 +308,7 @@
   </tbody>
   </table>
 
-12. **Introduction to Graphs. BFS. DFS.**
+13. **Introduction to Graphs. BFS. DFS.**
 
   <table>
   <thead><tr> 
@@ -322,7 +339,7 @@
   </tbody>
   </table>
 
-13. **Combinatorial Problems.**
+14. **Combinatorial Problems.**
 
   <table>
   <thead><tr> 
@@ -353,7 +370,7 @@
   </tbody>
   </table>
 
-14. **FFT.**
+15. **FFT.**
 
   <table>
   <thead><tr> 
@@ -383,8 +400,6 @@
     </tr>
   </tbody>
   </table>
-
-15. ...undecided
 
 16. ...undecided
 

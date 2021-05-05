@@ -214,6 +214,10 @@
     </tr>
   </tbody>
   </table>
+  
+  * Further Resources:
+     - [visual explanation](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/1058873/visual-explanation)  
+  
 
 9. **Dynamic Programming**
 

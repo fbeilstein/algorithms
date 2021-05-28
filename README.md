@@ -207,7 +207,7 @@
   <tbody>
     <tr>
       <td>1.</td> <td><a href="https://leetcode.com/problems/beautiful-array/">Beautiful Array</td>
-      <td>2.</td> <td><a href=""></td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/count-complete-tree-nodes/">Count Complete Tree Nodes</td>
       <td>3.</td> <td><a href=""></td>
       <td>4.</td> <td><a href=""></td>
       <td>5.</td> <td><a href=""></td>
@@ -231,9 +231,16 @@
       <td>2.</td> <td><a href="https://leetcode.com/problems/partition-array-for-maximum-sum/">Partition Array for Maximum Sum</td>
       <td>3.</td> <td><a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/">Count Square Submatrices with All Ones</td>
       <td>4.</td> <td><a href="https://leetcode.com/problems/flip-string-to-monotone-increasing/">Flip String to Monotone Increasing</td>
-      <td>5.</td> <td><a href=""></td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/count-submatrices-with-all-ones/">Count Submatrices With All Ones</td>
     </tr>
-  </tbody>
+    <tr>
+      <td>6.</td>  <td><a href="https://leetcode.com/problems/house-robber/">House Robber</td>
+      <td>7.</td>  <td><a href="https://leetcode.com/problems/count-sorted-vowel-strings/">Count Sorted Vowel Strings</td>
+      <td>8.</td>  <td><a href="https://leetcode.com/problems/unique-binary-search-trees/">Unique Binary Search Trees</td>
+      <td>9.</td>  <td><a href="https://leetcode.com/problems/unique-paths/">Unique Paths</td>
+      <td>10.</td> <td><a href=""></td>
+    </tr>
+ </tbody>
   </table>
 
 10. **Sorting.**

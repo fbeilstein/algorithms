@@ -243,6 +243,7 @@
   </table>
 
 10. **Sorting.**
+
   <table>
   <thead><tr> 
      <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
@@ -251,6 +252,9 @@
     <tr>
       <td>1.</td> <td><a href="https://leetcode.com/problems/insertion-sort-list/">Insertion Sort List</td>
       <td>2.</td> <td><a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/">How Many Numbers Are Smaller Than the Current Number</td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/sort-colors/">Sort Colors</td>
+      <td>4.</td> <td><a href=""></td>
+      <td>5.</td> <td><a href=""></td>
     </tr>
   </tbody>
   </table>
@@ -328,7 +332,7 @@
     <tr>
       <td>1.</td> <td><a href="https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/">All Nodes Distance K in Binary Tree</td>
       <td>2.</td> <td><a href="https://leetcode.com/problems/distribute-coins-in-binary-tree/">Distribute Coins in Binary Tree</td>
-      <td>3.</td> <td><a href=""></td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/">Minimum Number of Vertices to Reach All Nodes</td>
       <td>4.</td> <td><a href=""></td>
       <td>5.</td> <td><a href=""></td>
     </tr>

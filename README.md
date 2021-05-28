@@ -86,8 +86,6 @@
     </tr>
   </tbody>
   </table>
-  
-  
 
 4. **Strings.**
 
@@ -139,6 +137,7 @@
 
 
 6. **Binary Tree.**
+
   <table>
   <thead><tr> 
      <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
@@ -198,7 +197,7 @@
   * Further Resources:
      - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 
-8. **Divide and Conquer**
+8. **Divide and Conquer. Binary Search.**
 
   <table>
   <thead><tr> 
@@ -208,8 +207,8 @@
     <tr>
       <td>1.</td> <td><a href="https://leetcode.com/problems/beautiful-array/">Beautiful Array</td>
       <td>2.</td> <td><a href="https://leetcode.com/problems/count-complete-tree-nodes/">Count Complete Tree Nodes</td>
-      <td>3.</td> <td><a href=""></td>
-      <td>4.</td> <td><a href=""></td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Median of Two Sorted Arrays</td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in Rotated Sorted Array</td>
       <td>5.</td> <td><a href=""></td>
     </tr>
   </tbody>

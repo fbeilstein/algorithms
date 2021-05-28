@@ -240,6 +240,13 @@
       <td>9.</td>  <td><a href="https://leetcode.com/problems/unique-paths/">Unique Paths</td>
       <td>10.</td> <td><a href="https://leetcode.com/problems/partition-array-for-maximum-sum/">Partition Array for Maximum Sum</td>
     </tr>
+    <tr>
+      <td>11.</td>  <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</td>
+      <td>12.</td>  <td><a href=""></td>
+      <td>13.</td>  <td><a href=""></td>
+      <td>14.</td>  <td><a href=""></td>
+      <td>15.</td>  <td><a href=""></td>
+    </tr>
  </tbody>
   </table>
 

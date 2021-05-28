@@ -212,6 +212,13 @@
       <td>4.</td> <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in Rotated Sorted Array</td>
       <td>5.</td> <td><a href="https://leetcode.com/problems/two-sum/">Two Sum</td>
     </tr>
+    <tr>
+      <td>6.</td>  <td><a href="https://leetcode.com/problems/beautiful-array/">Beautiful Array</td>
+      <td>7.</td>  <td><a href=""></td>
+      <td>8.</td>  <td><a href=""></td>
+      <td>9.</td>  <td><a href=""></td>
+      <td>10.</td> <td><a href=""></td>
+    </tr>
   </tbody>
   </table>
   
@@ -262,7 +269,7 @@
       <td>2.</td> <td><a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/">How Many Numbers Are Smaller Than the Current Number</td>
       <td>3.</td> <td><a href="https://leetcode.com/problems/sort-colors/">Sort Colors</td>
       <td>4.</td> <td><a href="https://leetcode.com/problems/custom-sort-string/">Custom Sort String</td>
-      <td>5.</td> <td><a href=""></td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</td>
     </tr>
   </tbody>
   </table>

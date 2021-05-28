@@ -57,6 +57,7 @@
 
 
 3. **Lists. Difference Between Iterative and Recursive Approaches.**
+
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lists.ipynb)
   <table>
   <thead><tr> 
@@ -209,7 +210,7 @@
       <td>2.</td> <td><a href="https://leetcode.com/problems/count-complete-tree-nodes/">Count Complete Tree Nodes</td>
       <td>3.</td> <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Median of Two Sorted Arrays</td>
       <td>4.</td> <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in Rotated Sorted Array</td>
-      <td>5.</td> <td><a href=""></td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/two-sum/">Two Sum</td>
     </tr>
   </tbody>
   </table>

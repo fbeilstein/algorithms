@@ -237,7 +237,7 @@
       <td>7.</td>  <td><a href="https://leetcode.com/problems/count-sorted-vowel-strings/">Count Sorted Vowel Strings</td>
       <td>8.</td>  <td><a href="https://leetcode.com/problems/unique-binary-search-trees/">Unique Binary Search Trees</td>
       <td>9.</td>  <td><a href="https://leetcode.com/problems/unique-paths/">Unique Paths</td>
-      <td>10.</td> <td><a href=""></td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/partition-array-for-maximum-sum/">Partition Array for Maximum Sum</td>
     </tr>
  </tbody>
   </table>

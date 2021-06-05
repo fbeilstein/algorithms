@@ -251,7 +251,7 @@
       <td>11.</td>  <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</td>
       <td>12.</td>  <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</td>
       <td>13.</td>  <td><a href="https://leetcode.com/problems/min-cost-climbing-stairs/">Min Cost Climbing Stairs</td>
-      <td>14.</td>  <td><a href=""></td>
+      <td>14.</td>  <td><a href="https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/">Egg Drop With 2 Eggs and N Floors</td>
       <td>15.</td>  <td><a href=""></td>
     </tr>
  </tbody>

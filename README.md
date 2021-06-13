@@ -355,7 +355,7 @@
       <td>1.</td> <td><a href="https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/">All Nodes Distance K in Binary Tree</td>
       <td>2.</td> <td><a href="https://leetcode.com/problems/distribute-coins-in-binary-tree/">Distribute Coins in Binary Tree</td>
       <td>3.</td> <td><a href="https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/">Minimum Number of Vertices to Reach All Nodes</td>
-      <td>4.</td> <td><a href=""></td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/shortest-path-in-binary-matrix/">Shortest Path in Binary Matrix</td>
       <td>5.</td> <td><a href=""></td>
     </tr>
     <tr>

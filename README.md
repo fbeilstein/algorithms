@@ -192,6 +192,13 @@
       <td>4.</td> <td><a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square/">Determine Color of a Chessboard Square</td>
       <td>5.</td> <td><a href="https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/">Maximum Nesting Depth of Two Valid Parentheses Strings</td>
     </tr>
+    <tr>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/gray-code/">Gray Code</td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/circular-permutation-in-binary-representation/">Circular Permutation in Binary Representation</td>
+      <td>8.</td> <td><a href=""></td>
+      <td>9.</td> <td><a href=""></td>
+      <td>10.</td> <td><a href=""></td>
+    </tr>
   </tbody>
   </table>
   

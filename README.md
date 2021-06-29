@@ -245,7 +245,7 @@
       <td>2.</td> <td><a href="https://leetcode.com/problems/partition-array-for-maximum-sum/">Partition Array for Maximum Sum</td>
       <td>3.</td> <td><a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/">Count Square Submatrices with All Ones</td>
       <td>4.</td> <td><a href="https://leetcode.com/problems/flip-string-to-monotone-increasing/">Flip String to Monotone Increasing</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/count-submatrices-with-all-ones/">Count Submatrices With All Ones</td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/longest-common-subsequence/">Longest Common Subsequence</td>
     </tr>
     <tr>
       <td>6.</td>  <td><a href="https://leetcode.com/problems/house-robber/">House Robber</td>
@@ -259,7 +259,7 @@
       <td>12.</td>  <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</td>
       <td>13.</td>  <td><a href="https://leetcode.com/problems/min-cost-climbing-stairs/">Min Cost Climbing Stairs</td>
       <td>14.</td>  <td><a href="https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/">Egg Drop With 2 Eggs and N Floors</td>
-      <td>15.</td>  <td><a href=""></td>
+      <td>15.</td>  <td><a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</td>
     </tr>
  </tbody>
   </table>

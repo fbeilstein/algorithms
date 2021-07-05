@@ -356,7 +356,7 @@
       <td>2.</td> <td><a href="https://leetcode.com/problems/distribute-coins-in-binary-tree/">Distribute Coins in Binary Tree</td>
       <td>3.</td> <td><a href="https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/">Minimum Number of Vertices to Reach All Nodes</td>
       <td>4.</td> <td><a href="https://leetcode.com/problems/shortest-path-in-binary-matrix/">Shortest Path in Binary Matrix</td>
-      <td>5.</td> <td><a href=""></td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/open-the-lock/">Open the Lock</td>
     </tr>
     <tr>
       <td>6.</td> <td><a href=""></td>

@@ -220,7 +220,7 @@
       <td>5.</td> <td><a href="https://leetcode.com/problems/two-sum/">Two Sum</td>
     </tr>
     <tr>
-      <td>6.</td>  <td><a href="https://leetcode.com/problems/beautiful-array/">Beautiful Array</td>
+      <td>6.</td>  <td><a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">Single Element in a Sorted Array</td>
       <td>7.</td>  <td><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak Index in a Mountain Array</td>
       <td>8.</td>  <td><a href=""></td>
       <td>9.</td>  <td><a href=""></td>

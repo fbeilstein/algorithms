@@ -328,7 +328,7 @@
       <td>5.</td> <td><a href="https://leetcode.com/problems/implement-queue-using-stacks/">Implement Queue using Stacks</td>
     </tr>
     <tr>
-      <td>6.</td> <td><a href=""></td>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/next-greater-element-ii/">Next Greater Element II</td>
       <td>7.</td> <td><a href=""></td>
       <td>8.</td> <td><a href=""></td>
       <td>9.</td> <td><a href=""></td>

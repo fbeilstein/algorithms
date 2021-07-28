@@ -321,7 +321,7 @@
   </tr></thead>
   <tbody>
     <tr>
-      <td>1.</td> <td><a href=""></td>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/">Remove All Adjacent Duplicates in String II</td>
       <td>2.</td> <td><a href=""></td>
       <td>3.</td> <td><a href=""></td>
       <td>4.</td> <td><a href=""></td>

@@ -222,8 +222,8 @@
     <tr>
       <td>6.</td>  <td><a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">Single Element in a Sorted Array</td>
       <td>7.</td>  <td><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak Index in a Mountain Array</td>
-      <td>8.</td>  <td><a href=""></td>
-      <td>9.</td>  <td><a href=""></td>
+      <td>8.</td>  <td><a href="https://leetcode.com/problems/find-peak-element/">Find Peak Element</td>
+      <td>9.</td>  <td><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Find Minimum in Rotated Sorted Array</td>
       <td>10.</td> <td><a href=""></td>
     </tr>
   </tbody>
@@ -330,9 +330,9 @@
     <tr>
       <td>6.</td> <td><a href="https://leetcode.com/problems/next-greater-element-ii/">Next Greater Element II</td>
       <td>7.</td> <td><a href="https://leetcode.com/problems/maximum-width-ramp/">Maximum Width Ramp</td>
-      <td>8.</td> <td><a href=""></td>
-      <td>9.</td> <td><a href=""></td>
-      <td>10.</td> <td><a href=""></td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/find-the-most-competitive-subsequence/">Find the Most Competitive Subsequence</td>
+      <td>9.</td> <td><a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">Evaluate Reverse Polish Notation</td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/asteroid-collision/">Asteroid Collision</td>
     </tr>
     <tr>
       <td>11.</td> <td><a href=""></td>

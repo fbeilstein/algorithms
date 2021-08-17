@@ -128,7 +128,7 @@
   <tbody>
     <tr>
       <td>1.</td> <td><a href="https://leetcode.com/problems/number-of-good-pairs/">Number of Good Pairs</td>
-      <td></td> <td><a href=""></td>
+      <td></td> <td><a href="https://leetcode.com/problems/maximum-erasure-value/">Maximum Erasure Value</td>
       <td></td> <td><a href=""></td>
       <td></td> <td><a href=""></td>
       <td></td> <td><a href=""></td>

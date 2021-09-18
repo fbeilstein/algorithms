@@ -25,7 +25,7 @@
   </table>
 
 2. **Arrays.**
-* [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/arrays.ipynb)
+  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/arrays.ipynb)
   <table>
   <thead><tr> 
      <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>
@@ -449,3 +449,7 @@
 ## How to solve the unsolvable
 
 [instructions](https://github.com/fbeilstein/algorithms/blob/master/how_to_solve.md)
+
+## Experimental
+
+[different tests](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/experimentation.ipynb)

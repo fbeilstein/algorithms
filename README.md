@@ -103,18 +103,25 @@
       <td>5.</td> <td><a href="https://leetcode.com/problems/1-bit-and-2-bit-characters/">1-bit and 2-bit Characters</td>
     </tr>
     <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">Maximum Score After Splitting a String</td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/long-pressed-name/">Long Pressed Name</td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/is-subsequence/">Is Subsequence</td>
-      <td>9.</td> <td><a href="https://leetcode.com/problems/add-strings/">Add Strings</td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/ransom-note/">Ransom Note</td>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/remove-all-occurrences-of-a-substring/">Remove All Occurrences of a Substring</td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">Maximum Score After Splitting a String</td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/long-pressed-name/">Long Pressed Name</td>
+      <td>9.</td> <td><a href="https://leetcode.com/problems/is-subsequence/">Is Subsequence</td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/add-strings/">Add Strings</td>
     </tr>
     <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/maximum-number-of-balloons/">Maximum Number of Balloons</td>
-      <td>12.</td> <td><a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters/">Largest Substring Between Two Equal Characters</td>
-      <td>13.</td> <td><a href="https://leetcode.com/problems/consecutive-characters/">Consecutive Characters</td>
-      <td>14.</td> <td><a href="https://leetcode.com/problems/count-and-say/">Count and Say</td>
-      <td>15.</td> <td><a href="https://leetcode.com/problems/shortest-distance-to-a-character/">Shortest Distance to a Character</td>
+      <td>11.</td> <td><a href="https://leetcode.com/problems/ransom-note/">Ransom Note</td>
+      <td>12.</td> <td><a href="https://leetcode.com/problems/maximum-number-of-balloons/">Maximum Number of Balloons</td>
+      <td>13.</td> <td><a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters/">Largest Substring Between Two Equal Characters</td>
+      <td>14.</td> <td><a href="https://leetcode.com/problems/consecutive-characters/">Consecutive Characters</td>
+      <td>15.</td> <td><a href="https://leetcode.com/problems/count-and-say/">Count and Say</td>
+    </tr>
+    <tr>
+      <td>16.</td> <td><a href="https://leetcode.com/problems/shortest-distance-to-a-character/">Shortest Distance to a Character</td>
+      <td>17.</td> <td><a href=""></td>
+      <td>18.</td> <td><a href=""></td>
+      <td>19.</td> <td><a href=""></td>
+      <td>20.</td> <td><a href=""></td>
     </tr>
   </tbody>
   </table>

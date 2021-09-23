@@ -76,14 +76,14 @@
      <td>7.</td> <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/">Remove Duplicates from Sorted List II</td>
      <td>8.</td> <td><a href="https://leetcode.com/problems/merge-in-between-linked-lists/">Merge In Between Linked Lists</td>
      <td>9.</td> <td><a href="https://leetcode.com/problems/reverse-linked-list-ii/">Reverse Linked List II</td>
-     <td>10.</td> <td><a href="https://leetcode.com/problems/next-greater-node-in-linked-list/">Next Greater Node In Linked List</td>
+     <td>10.</td> <td><a href="https://leetcode.com/problems/split-linked-list-in-parts/">Split Linked List in Parts</td>
     </tr>
     <tr>
-     <td>11.</td> <td><a href="https://leetcode.com/problems/split-linked-list-in-parts/">Split Linked List in Parts</td>
-     <td>12.</td> <td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</td>
-     <td></td> <td><a href=""></td>
-     <td></td> <td><a href=""></td>
-     <td></td> <td><a href=""></td>
+     <td>11.</td> <td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</td>
+     <td>12.</td> <td><a href=""></td>
+     <td>13.</td> <td><a href=""></td>
+     <td>14.</td> <td><a href=""></td>
+     <td>15.</td> <td><a href=""></td>
     </tr>
   </tbody>
   </table>
@@ -349,7 +349,7 @@
       <td>10.</td> <td><a href="https://leetcode.com/problems/asteroid-collision/">Asteroid Collision</td>
     </tr>
     <tr>
-      <td>11.</td> <td><a href=""></td>
+      <td>11.</td> <td><a href="https://leetcode.com/problems/next-greater-node-in-linked-list/">Next Greater Node In Linked List</td>
       <td>12.</td> <td><a href=""></td>
       <td>13.</td> <td><a href=""></td>
       <td>14.</td> <td><a href=""></td>

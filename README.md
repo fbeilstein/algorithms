@@ -457,6 +457,10 @@
 
 [instructions](https://github.com/fbeilstein/algorithms/blob/master/how_to_solve.md)
 
+## Additional
+
+[visualisations](https://csvistool.com/)
+
 ## Experimental
 
 [different tests](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/experimentation.ipynb)

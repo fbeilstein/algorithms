@@ -96,14 +96,14 @@
   </tr></thead>
   <tbody>
     <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/reverse-string-ii/">Reverse String II</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">Reverse Vowels of a String</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/">Maximum Nesting Depth of the Parentheses</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/1-bit-and-2-bit-characters/">1-bit and 2-bit Characters</td>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/remove-all-occurrences-of-a-substring/">Remove All Occurrences of a Substring</td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/reverse-string-ii/">Reverse String II</td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">Reverse Vowels of a String</td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/">Maximum Nesting Depth of the Parentheses</td>
     </tr>
     <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/remove-all-occurrences-of-a-substring/">Remove All Occurrences of a Substring</td>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/1-bit-and-2-bit-characters/">1-bit and 2-bit Characters</td>
       <td>7.</td> <td><a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">Maximum Score After Splitting a String</td>
       <td>8.</td> <td><a href="https://leetcode.com/problems/long-pressed-name/">Long Pressed Name</td>
       <td>9.</td> <td><a href="https://leetcode.com/problems/is-subsequence/">Is Subsequence</td>

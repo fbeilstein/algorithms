@@ -128,6 +128,7 @@
 
 5. **Hash Maps.**
 
+  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/hashmaps.ipynb)
   <table>
   <thead><tr> 
      <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
@@ -135,10 +136,10 @@
   <tbody>
     <tr>
       <td>1.</td> <td><a href="https://leetcode.com/problems/number-of-good-pairs/">Number of Good Pairs</td>
-      <td></td> <td><a href="https://leetcode.com/problems/maximum-erasure-value/">Maximum Erasure Value</td>
-      <td></td> <td><a href=""></td>
-      <td></td> <td><a href=""></td>
-      <td></td> <td><a href=""></td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/maximum-erasure-value/">Maximum Erasure Value</td>
+      <td>3.</td> <td><a href=""></td>
+      <td>4.</td> <td><a href=""></td>
+      <td>5.</td> <td><a href=""></td>
     </tr>
   </tbody>
   </table>

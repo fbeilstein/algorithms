@@ -139,7 +139,7 @@
       <td>2.</td> <td><a href="https://leetcode.com/problems/number-of-good-pairs/">Number of Good Pairs</td>
       <td>3.</td> <td><a href="https://leetcode.com/problems/maximum-erasure-value/">Maximum Erasure Value</td>
       <td>4.</td> <td><a href="https://leetcode.com/problems/apply-discount-every-n-orders/">Apply Discount Every n Orders</td>
-      <td>5.</td> <td><a href=""></td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/">Longest Arithmetic Subsequence of Given Difference</td>
     </tr>
   </tbody>
   </table>

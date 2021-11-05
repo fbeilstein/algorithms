@@ -141,6 +141,13 @@
       <td>4.</td> <td><a href="https://leetcode.com/problems/apply-discount-every-n-orders/">Apply Discount Every n Orders</td>
       <td>5.</td> <td><a href="https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/">Longest Arithmetic Subsequence of Given Difference</td>
     </tr>
+    <tr>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</td>
+      <td>7.</td> <td><a href=""></td>
+      <td>8.</td> <td><a href=""></td>
+      <td>9.</td> <td><a href=""></td>
+      <td>10.</td> <td><a href=""></td>
+    </tr>
   </tbody>
   </table>
 

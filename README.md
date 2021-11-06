@@ -143,7 +143,7 @@
     </tr>
     <tr>
       <td>6.</td> <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</td>
-      <td>7.</td> <td><a href=""></td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/">Restore the Array From Adjacent Pairs</td>
       <td>8.</td> <td><a href=""></td>
       <td>9.</td> <td><a href=""></td>
       <td>10.</td> <td><a href=""></td>

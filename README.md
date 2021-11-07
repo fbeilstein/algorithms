@@ -89,6 +89,7 @@
   </table>
 
 4. **Strings.**
+
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/strings.ipynb)
   <table>
   <thead><tr> 
@@ -136,17 +137,17 @@
   <tbody>
     <tr>
       <td>1.</td> <td><a href="https://leetcode.com/problems/design-hashmap/">Design HashMap</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/number-of-good-pairs/">Number of Good Pairs</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/maximum-erasure-value/">Maximum Erasure Value</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/apply-discount-every-n-orders/">Apply Discount Every n Orders</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/">Longest Arithmetic Subsequence of Given Difference</td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/lru-cache/">LRU Cache</td> 
+      <td>3.</td> <td><a href="https://leetcode.com/problems/number-of-good-pairs/">Number of Good Pairs</td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/maximum-erasure-value/">Maximum Erasure Value</td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/apply-discount-every-n-orders/">Apply Discount Every n Orders</td>
     </tr>
     <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/">Restore the Array From Adjacent Pairs</td>
-      <td>8.</td> <td><a href=""></td>
-      <td>9.</td> <td><a href=""></td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/">Longest Arithmetic Subsequence of Given Difference</td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</td>
+      <td>9.</td> <td><a href="https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/">Restore the Array From Adjacent Pairs</td>
       <td>10.</td> <td><a href=""></td>
+      <td>11.</td> <td><a href=""></td>
     </tr>
   </tbody>
   </table>

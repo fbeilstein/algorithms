@@ -143,11 +143,11 @@
       <td>5.</td> <td><a href="https://leetcode.com/problems/apply-discount-every-n-orders/">Apply Discount Every n Orders</td>
     </tr>
     <tr>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/">Longest Arithmetic Subsequence of Given Difference</td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</td>
-      <td>9.</td> <td><a href="https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/">Restore the Array From Adjacent Pairs</td>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/">Longest Arithmetic Subsequence of Given Difference</td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/">Restore the Array From Adjacent Pairs</td>
+      <td>9.</td> <td><a href=""></td>
       <td>10.</td> <td><a href=""></td>
-      <td>11.</td> <td><a href=""></td>
     </tr>
   </tbody>
   </table>

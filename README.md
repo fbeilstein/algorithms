@@ -80,7 +80,7 @@
     </tr>
     <tr>
      <td>11.</td> <td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</td>
-     <td>12.</td> <td><a href=""></td>
+     <td>12.</td> <td><a href="https://leetcode.com/problems/design-linked-list/">Design Linked List</td>
      <td>13.</td> <td><a href=""></td>
      <td>14.</td> <td><a href=""></td>
      <td>15.</td> <td><a href=""></td>
@@ -147,7 +147,7 @@
       <td>7.</td> <td><a href="https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/">Longest Arithmetic Subsequence of Given Difference</td>
       <td>8.</td> <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</td>
       <td>9.</td> <td><a href="https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/">Restore the Array From Adjacent Pairs</td>     
-      <td>10.</td> <td><a href=""></td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/">Count Number of Pairs With Absolute Difference K</td>
     </tr>
   </tbody>
   </table>
@@ -382,7 +382,7 @@
       <td>5.</td> <td><a href="https://leetcode.com/problems/open-the-lock/">Open the Lock</td>
     </tr>
     <tr>
-      <td>6.</td> <td><a href=""></td>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/number-of-closed-islands/">Number of Closed Islands</td>
       <td>7.</td> <td><a href=""></td>
       <td>8.</td> <td><a href=""></td>
       <td>9.</td> <td><a href=""></td>

@@ -159,6 +159,9 @@
   </tbody>
   </table>
 
+* Further Resources:
+     - [Lectures on Hash Table](https://www.youtube.com/watch?v=2E54GqF0H4s&list=PLDV1Zeh2NRsDH5Wq-Vk5tDb8gH03cULZS)
+
 
 6. **Binary Tree.**
 

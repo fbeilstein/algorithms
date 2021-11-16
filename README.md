@@ -116,16 +116,16 @@
     <tr>
       <td>6.</td> <td><a href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</td>
       <td>7.</td> <td><a href="https://leetcode.com/problems/find-the-duplicate-number/">Find the Duplicate Number</td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/arithmetic-slices/">Arithmetic Slices</td>
-      <td>9.</td> <td><a href="https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/">Detect Pattern of Length M Repeated K or More Times</td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/longest-continuous-increasing-subsequence/">Longest Continuous Increasing Subsequence</td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/partition-array-into-disjoint-intervals/">Partition Array into Disjoint Intervals</td>
+      <td>9.</td> <td><a href="https://leetcode.com/problems/valid-mountain-array/">Valid Mountain Array</td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/defuse-the-bomb/">Defuse the Bomb</td>
     </tr> 
     <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/partition-array-into-disjoint-intervals/">Partition Array into Disjoint Intervals</td>
-     <td>12.</td> <td><a href="https://leetcode.com/problems/valid-mountain-array/">Valid Mountain Array</td>
-      <td>13.</td> <td><a href="https://leetcode.com/problems/defuse-the-bomb/">Defuse the Bomb</td>
-      <td>14.</td> <td><a href="https://leetcode.com/problems/most-visited-sector-in-a-circular-track/">Most Visited Sector in a Circular Track</td>
-      <td>15.</td> <td><a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</td>
+      <td>11.</td> <td><a href="https://leetcode.com/problems/most-visited-sector-in-a-circular-track/">Most Visited Sector in a Circular Track</td>
+      <td>12.</td> <td><a href=""></td>
+      <td>13.</td> <td><a href=""></td>
+      <td>14.</td> <td><a href=""></td>
+      <td>15.</td> <td><a href=""></td>
     </tr>
   </tbody>
   </table>
@@ -140,25 +140,25 @@
   </tr></thead>
   <tbody>
     <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/">Minimum Value to Get Positive Step by Step Sum</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/range-addition-ii/">Range Addition II</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/move-zeroes/">Move Zeroes</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/rotate-image/">Rotate Image</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/n-repeated-element-in-size-2n-array/">N-Repeated Element in Size 2N Array</td>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/arithmetic-slices/">Arithmetic Slices</td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/">Detect Pattern of Length M Repeated K or More Times</td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/longest-continuous-increasing-subsequence/">Longest Continuous Increasing Subsequence</td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/">Maximum Distance Between a Pair of Values</td>
     </tr>
     <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/find-the-duplicate-number/">Find the Duplicate Number</td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/arithmetic-slices/">Arithmetic Slices</td>
-      <td>9.</td> <td><a href="https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/">Detect Pattern of Length M Repeated K or More Times</td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/longest-continuous-increasing-subsequence/">Longest Continuous Increasing Subsequence</td>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/replace-the-substring-for-balanced-string/">Replace the Substring for Balanced String</td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/sort-colors/discuss/1220723/nice-gifs">Sort Colors</td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/number-of-substrings-with-only-1s/">Number of Substrings With Only 1s</td>
+      <td>9.</td> <td><a href="https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/">Maximum Distance Between a Pair of Values</td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</td>
     </tr> 
     <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/partition-array-into-disjoint-intervals/">Partition Array into Disjoint Intervals</td>
-     <td>12.</td> <td><a href="https://leetcode.com/problems/valid-mountain-array/">Valid Mountain Array</td>
-      <td>13.</td> <td><a href="https://leetcode.com/problems/defuse-the-bomb/">Defuse the Bomb</td>
-      <td>14.</td> <td><a href="https://leetcode.com/problems/most-visited-sector-in-a-circular-track/">Most Visited Sector in a Circular Track</td>
-      <td>15.</td> <td><a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</td>
+      <td>11.</td> <td><a href=""></td>
+      <td>12.</td> <td><a href=""></td>
+      <td>13.</td> <td><a href=""></td>
+      <td>14.</td> <td><a href=""></td>
+      <td>15.</td> <td><a href=""></td>
     </tr>
   </tbody>
   </table>

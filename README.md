@@ -154,7 +154,7 @@
       <td>10.</td> <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</td>
     </tr> 
     <tr>
-      <td>11.</td> <td><a href=""></td>
+      <td>11.</td> <td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Minimum Size Subarray Sum</td>
       <td>12.</td> <td><a href=""></td>
       <td>13.</td> <td><a href=""></td>
       <td>14.</td> <td><a href=""></td>

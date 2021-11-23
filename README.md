@@ -148,7 +148,7 @@
     </tr>
     <tr>
       <td>6.</td> <td><a href="https://leetcode.com/problems/replace-the-substring-for-balanced-string/">Replace the Substring for Balanced String</td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/sort-colors/discuss/1220723/nice-gifs">Sort Colors</td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/sort-colors/">Sort Colors</td>
       <td>8.</td> <td><a href="https://leetcode.com/problems/number-of-substrings-with-only-1s/">Number of Substrings With Only 1s</td>
       <td>9.</td> <td><a href="https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/">Maximum Distance Between a Pair of Values</td>
       <td>10.</td> <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</td>

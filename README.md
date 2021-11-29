@@ -166,6 +166,7 @@
 
 6. **Stack. Queue. Deque.**
 
+  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/stack_queue_dequeue.ipynb)
   <table>
   <thead><tr> 
      <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 

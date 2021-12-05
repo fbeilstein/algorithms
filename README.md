@@ -70,29 +70,22 @@
       <td>1.</td> <td><a href="https://leetcode.com/problems/diameter-of-binary-tree/">Diameter of Binary Tree</td>
       <td>2.</td> <td><a href="https://leetcode.com/problems/sum-root-to-leaf-numbers/">Sum Root to Leaf Numbers</td>
       <td>3.</td> <td><a href="https://leetcode.com/problems/sum-of-left-leaves/">Sum of Left Leaves</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/range-sum-of-bst/">Range Sum of BST</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</td> 
+      <td>5.</td> <td><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">Minimum Depth of Binary Tree</td>
     </tr>
     <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">Minimum Depth of Binary Tree</td>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/binary-tree-tilt/">Binary Tree Tilt</td>
       <td>7.</td> <td><a href="https://leetcode.com/problems/invert-binary-tree/">Invert Binary Tree</td>
       <td>8.</td> <td><a href="https://leetcode.com/problems/univalued-binary-tree/">Univalued Binary Tree</td>
       <td>9.</td> <td><a href="https://leetcode.com/problems/same-tree/">Same Tree</td>
       <td>10.</td> <td><a href="https://leetcode.com/problems/symmetric-tree">Symmetric Tree</td>
     </tr>
     <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/binary-tree-tilt/">Binary Tree Tilt</td>
-      <td>12.</td> <td><a href="https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/">Path In Zigzag Labelled Binary Tree</td>
-      <td>13.</td> <td><a href="https://leetcode.com/problems/trim-a-binary-search-tree/">Trim a Binary Search Tree</td>
-      <td>14.</td> <td><a href="https://leetcode.com/problems/insert-into-a-binary-search-tree/">Insert into a Binary Search Tree</td>
-      <td>15.</td> <td><a href="https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/">Find a Corresponding Node of a Binary Tree in a Clone of That Tree</td>
-    </tr>
-    <tr>
-      <td>16.</td> <td><a href="https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/">Minimum Time to Collect All Apples in a Tree</td>
-      <td>17.</td> <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">Lowest Common Ancestor of a Binary Search Tree</td>
-      <td>18.</td> <td><a href="https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/">The k-th Lexicographical String of All Happy Strings of Length n</td>
-      <td>19.</td> <td><a href="https://leetcode.com/problems/search-in-a-binary-search-tree/">Search in a Binary Search Tree</td>
-      <td></td> <td><a href=""></td>
+      <td>11.</td> <td><a href="https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/">Path In Zigzag Labelled Binary Tree</td>
+      <td>12.</td> <td><a href="https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/">Find a Corresponding Node of a Binary Tree in a Clone of That Tree</td>
+      <td>13.</td> <td><a href="https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/">Minimum Time to Collect All Apples in a Tree</td>
+      <td>14.</td> <td><a href="https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/">The k-th Lexicographical String of All Happy Strings of Length n</td>
+      <td>15.</td> <td><a href=""></td>
     </tr>
   </tbody>
   </table>
@@ -315,11 +308,11 @@
   </tr></thead>
   <tbody>
     <tr>
-      <td>1.</td> <td><a href=""></td>
-      <td>2.</td> <td><a href=""></td>
-      <td>3.</td> <td><a href=""></td>
-      <td>4.</td> <td><a href=""></td>
-      <td>5.</td> <td><a href=""></td>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/search-in-a-binary-search-tree/">Search in a Binary Search Tree</td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">Lowest Common Ancestor of a Binary Search Tree</td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/trim-a-binary-search-tree/">Trim a Binary Search Tree</td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/range-sum-of-bst/">Range Sum of BST</td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/insert-into-a-binary-search-tree/">Insert into a Binary Search Tree</td>
     </tr>
     <tr>
       <td>6.</td> <td><a href=""></td>

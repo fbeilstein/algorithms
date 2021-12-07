@@ -315,14 +315,14 @@
       <td>5.</td> <td><a href="https://leetcode.com/problems/insert-into-a-binary-search-tree/">Insert into a Binary Search Tree</td>
     </tr>
     <tr>
-      <td>6.</td> <td><a href=""></td>
-      <td>7.</td> <td><a href=""></td>
-      <td>8.</td> <td><a href=""></td>
-      <td>9.</td> <td><a href=""></td>
-      <td>10.</td> <td><a href=""></td>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/balance-a-binary-search-tree/">Balance a Binary Search Tree</td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/increasing-order-search-tree/">Increasing Order Search Tree</td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/minimum-distance-between-bst-nodes/">Minimum Distance Between BST Nodes</td>
+      <td>9.</td> <td><a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst/">Kth Smallest Element in a BST</td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/">Convert Sorted Array to Binary Search Tree</td>
     </tr>
     <tr>
-      <td>11.</td> <td><a href=""></td>
+      <td>11.</td> <td><a href="https://leetcode.com/problems/validate-binary-search-tree/">Validate Binary Search Tree</td>
       <td>12.</td> <td><a href=""></td>
       <td>13.</td> <td><a href=""></td>
       <td>14.</td> <td><a href=""></td>

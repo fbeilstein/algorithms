@@ -250,7 +250,7 @@
     <tr>
       <td>1.</td> <td><a href="https://leetcode.com/problems/remove-stones-to-minimize-the-total/">Remove Stones to Minimize the Total</td>
       <td>2.</td> <td><a href="https://leetcode.com/problems/seat-reservation-manager/">Seat Reservation Manager</td>
-      <td>3.</td> <td><a href=""></td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/find-median-from-data-stream/">Find Median from Data Stream</td>
       <td>4.</td> <td><a href=""></td>
       <td>5.</td> <td><a href=""></td>
     </tr>

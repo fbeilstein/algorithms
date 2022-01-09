@@ -295,7 +295,7 @@
       <td>7.</td>  <td><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak Index in a Mountain Array</td>
       <td>8.</td>  <td><a href="https://leetcode.com/problems/find-peak-element/">Find Peak Element</td>
       <td>9.</td>  <td><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Find Minimum in Rotated Sorted Array</td>
-      <td>10.</td> <td><a href=""></td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/">Minimum Limit of Balls in a Bag</td>
     </tr>
   </tbody>
   </table>

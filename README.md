@@ -208,8 +208,8 @@
     <tr>
       <td>6.</td> <td><a href="https://leetcode.com/problems/two-city-scheduling/">Two City Scheduling</td>
       <td>7.</td> <td><a href="https://leetcode.com/problems/partition-list/">Partition List</td>
-      <td>8.</td> <td><a href=""></td>
-      <td>9.</td> <td><a href=""></td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/queue-reconstruction-by-height/">Queue Reconstruction by Height</td>
+      <td>9.</td> <td><a href="https://leetcode.com/problems/sort-list/">Sort List</td>
       <td>10.</td> <td><a href=""></td>
     </tr>
   </tbody>
@@ -394,7 +394,7 @@
     </tr>
     <tr>
       <td>6.</td> <td><a href="https://leetcode.com/problems/number-of-closed-islands/">Number of Closed Islands</td>
-      <td>7.</td> <td><a href=""></td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/number-of-enclaves/">Number of Enclaves</td>
       <td>8.</td> <td><a href=""></td>
       <td>9.</td> <td><a href=""></td>
       <td>10.</td> <td><a href=""></td>

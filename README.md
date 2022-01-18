@@ -534,6 +534,7 @@
   
   * Further Resources:
      - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
+     - [NandGame](https://nandgame.com/)
 
 
 14. **Combinatorial Problems.**

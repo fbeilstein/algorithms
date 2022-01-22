@@ -157,7 +157,38 @@
   </table>
 
 
-6. **Stack. Queue. Deque.**
+6. **Manipulating bits.**
+  
+  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/fenwick_tree.ipynb)
+  
+  <table>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/single-number/">Single Number</td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/power-of-two/">Power of Two</td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/number-of-1-bits/">Number of 1 Bits</td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square/">Determine Color of a Chessboard Square</td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/power-of-three/">Power of Three</td>
+    </tr>
+    <tr>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/power-of-four/">Power of Four</td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/adding-two-negabinary-numbers/">Adding Two Negabinary Numbers</td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/">Find Elements in a Contaminated Binary Tree</td>
+      <td>9.</td> <td><a href="https://leetcode.com/problems/gray-code/">Gray Code</td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/circular-permutation-in-binary-representation/">Circular Permutation in Binary Representation</td>
+    </tr>
+  </tbody>
+  </table>
+  
+  * Further Resources:
+     - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
+     - [NandGame](https://nandgame.com/)
+
+
+7. **Stack. Queue. Deque.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/stack_queue_dequeue.ipynb)
   <table>
@@ -190,7 +221,7 @@
   </table>
 
 
-7. **Sorting: Simple Sorting Algorithms, Stability.**
+8. **Sorting: Simple Sorting Algorithms, Stability.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/sorting_stability.ipynb)
   <table>
@@ -216,7 +247,7 @@
   </table>
 
 
-8. **Sorting: Merge Sort and Quick Sort.**
+9. **Sorting: Merge Sort and Quick Sort.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/merge_sort_quick_sort.ipynb)
   <table>
@@ -242,7 +273,7 @@
   </table>
 
 
-9. **Heap. Heap Sort. Priority Queue.**
+10. **Heap. Heap Sort. Priority Queue.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/heap_priority_queue.ipynb)
   <table>
@@ -275,7 +306,7 @@
   </table>
 
 
-10. **Divide and Conquer. Binary Search.**
+11. **Divide and Conquer. Binary Search.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/divide_and_conquer_binary_search.ipynb)
   <table>
@@ -304,7 +335,7 @@
      - [visual explanation](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/1058873/visual-explanation)  
 
 
-11. **Search Tree. Balancing.**
+12. **Search Tree. Balancing.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/search_tree_balancing.ipynb)
   <table>
@@ -337,7 +368,7 @@
   </table>
 
 
-12. **Strings.**
+13. **Strings.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/strings.ipynb)
   <table>
@@ -377,7 +408,7 @@
   </table>
 
 
-13. **Introduction to Graphs. BFS. DFS.**
+14. **Introduction to Graphs. BFS. DFS.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/graphs_bfs_dfs.ipynb)
   <table>
@@ -410,7 +441,7 @@
   </table>
 
 
-14. **Dynamic Programming**
+15. **Dynamic Programming**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/dynamic_programming.ipynb)
   <table>
@@ -450,7 +481,7 @@
  </table>
 
 
-15. **Hash Maps.**
+16. **Hash Maps.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/hashmaps.ipynb)
   <table>
@@ -485,8 +516,6 @@
 * Further Resources:
      - [Lectures on Hash Table](https://www.youtube.com/watch?v=2E54GqF0H4s&list=PLDV1Zeh2NRsDH5Wq-Vk5tDb8gH03cULZS)
 
-
-16. **Not Decided...**
 
 
 

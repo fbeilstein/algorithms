@@ -19,10 +19,10 @@
 
 <table>
   <tr>
-    <td> Module 1 </td><td>Lecture 5</td> <td>After Lecture 5</td> <td>Gain up to 30 pts</td>
+    <td> Module 1 </td> <td>After Lecture 5</td> <td>Gain up to 30 pts</td>
   </tr>
   <tr>
-    <td> Module 2 </td><td>Lecture 10</td> <td>After Lecture 10</td> <td>Solve more problems, gain up to 30 pts</td>
+    <td> Module 2 </td> <td>After Lecture 10</td> <td>Solve more problems, gain up to 30 pts</td>
   </tr>
   <tr>
     <td>Exam</td><td>TBA</td> <td>Solve more problems, gain up to 40 pts</td>

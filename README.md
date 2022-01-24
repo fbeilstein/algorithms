@@ -519,9 +519,10 @@
 
 
 
-## How to solve the unsolvable
+## Instructions
 
 [instructions](https://github.com/fbeilstein/algorithms/blob/master/how_to_solve.md)
+[grading criteria](https://github.com/fbeilstein/algorithms/blob/master/grading_criteria.md)
 
 ## Additional
 

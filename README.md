@@ -159,7 +159,7 @@
 
 6. **Manipulating bits.**
   
-  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/fenwick_tree.ipynb)
+  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/bit_hacks.ipynb)
   
   <table>
   <thead><tr> 

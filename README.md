@@ -265,7 +265,7 @@
     <tr>
       <td>6.</td> <td><a href="https://leetcode.com/problems/two-city-scheduling/">Two City Scheduling</td>
       <td>7.</td> <td><a href="https://leetcode.com/problems/partition-list/">Partition List</td>
-      <td>8.</td> <td><a href=""></td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/partition-array-according-to-given-pivot/">Partition Array According to Given Pivot</td>
       <td>9.</td> <td><a href=""></td>
       <td>10.</td> <td><a href=""></td>
     </tr>

@@ -25,6 +25,6 @@
     <td> Module 2 </td> <td>After Lecture 10</td> <td>Solve more problems, gain up to 30 pts</td>
   </tr>
   <tr>
-    <td>Exam</td><td>TBA</td> <td>Solve more problems, gain up to 40 pts</td>
+    <td>Exam</td><td>TBA</td> <td>TBA, worth 40 pts</td>
   </tr>
 </table>

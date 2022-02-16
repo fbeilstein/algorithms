@@ -513,7 +513,7 @@
     <tr>
       <td>11.</td> <td><a href="https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/">Count Number of Pairs With Absolute Difference K</td>
       <td>12.</td> <td><a href="https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/">Number of Pairs of Interchangeable Rectangles</td>
-      <td>13.</td> <td><a href=""></td>
+      <td>13.</td> <td><a href="https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/">Check if All Characters Have Equal Number of Occurrences</td>
       <td>14.</td> <td><a href=""></td>     
       <td>15.</td> <td><a href=""></td>
     </tr>

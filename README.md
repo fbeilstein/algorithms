@@ -42,16 +42,16 @@
     </tr>
     <tr>
       <td>6.</td>  <td><a href="https://leetcode.com/problems/majority-element/">Majority Element</td>
-      <td>7.</td>  <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</td>
-      <td>8.</td>  <td><a href="https://leetcode.com/problems/move-zeroes/">Move Zeroes</td>
-      <td>9.</td>  <td><a href="https://leetcode.com/problems/rotate-image/">Rotate Image</td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/find-the-duplicate-number/">Find the Duplicate Number</td>
+      <td>7.</td>  <td><a href="https://leetcode.com/problems/rotate-image/">Rotate Image</td>
+      <td>8.</td>  <td><a href="https://leetcode.com/problems/find-the-duplicate-number/">Find the Duplicate Number</td>
+      <td>9.</td>  <td><a href="https://leetcode.com/problems/partition-array-into-disjoint-intervals/">Partition Array into Disjoint Intervals</td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/valid-mountain-array/">Valid Mountain Array</td>
     </tr> 
     <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/partition-array-into-disjoint-intervals/">Partition Array into Disjoint Intervals</td>
-      <td>12.</td> <td><a href="https://leetcode.com/problems/valid-mountain-array/">Valid Mountain Array</td>
-      <td>13.</td> <td><a href="https://leetcode.com/problems/defuse-the-bomb/">Defuse the Bomb</td>
-      <td>14.</td> <td><a href="https://leetcode.com/problems/most-visited-sector-in-a-circular-track/">Most Visited Sector in a Circular Track</td>
+      <td>11.</td> <td><a href="https://leetcode.com/problems/defuse-the-bomb/">Defuse the Bomb</td>
+      <td>12.</td> <td><a href="https://leetcode.com/problems/most-visited-sector-in-a-circular-track/">Most Visited Sector in a Circular Track</td>
+      <td>13.</td> <td><a href=""></td>
+      <td>14.</td> <td><a href=""></td>
       <td>15.</td> <td><a href=""></td>
     </tr>
   </tbody>
@@ -84,8 +84,8 @@
       <td>11.</td> <td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Minimum Size Subarray Sum</td>
       <td>12.</td> <td><a href="https://leetcode.com/problems/rotate-array/">Rotate Array</td>
       <td>13.</td> <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</td>
-      <td>14.</td> <td><a href=""></td>
-      <td>15.</td> <td><a href=""></td>
+      <td>14.</td>  <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</td>
+      <td>15.</td>  <td><a href="https://leetcode.com/problems/move-zeroes/">Move Zeroes</td>
     </tr>
   </tbody>
   </table>

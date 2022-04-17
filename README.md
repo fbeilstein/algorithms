@@ -241,7 +241,7 @@
       <td>7.</td> <td><a href="https://leetcode.com/problems/partition-list/">Partition List</td>
       <td>8.</td> <td><a href="https://leetcode.com/problems/queue-reconstruction-by-height/">Queue Reconstruction by Height</td>
       <td>9.</td> <td><a href="https://leetcode.com/problems/sort-list/">Sort List</td>
-      <td>10.</td> <td><a href=""></td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/find-closest-number-to-zero/discuss/1955207/1-liners">Find Closest Number to Zero</td>
     </tr>
   </tbody>
   </table>

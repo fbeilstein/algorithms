@@ -89,7 +89,7 @@
     </tr>
     <tr>
       <td>16.</td> <td><a href="https://leetcode.com/problems/sum-of-square-numbers/">Sum of Square Numbers</td>
-      <td>17.</td> <td><a href=""></td>
+      <td>17.</td> <td><a href="https://leetcode.com/problems/permutation-in-string/">Permutation in String</td>
       <td>18.</td> <td><a href=""></td>
       <td>19.</td> <td><a href=""></td>
       <td>20.</td> <td><a href=""></td>
@@ -220,7 +220,7 @@
     <tr>
       <td>11.</td> <td><a href="https://leetcode.com/problems/next-greater-node-in-linked-list/">Next Greater Node In Linked List</td>
       <td>12.</td> <td><a href="https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/">Minimum Number of Swaps to Make the String Balanced</td>
-      <td>13.</td> <td><a href=""></td>
+      <td>13.</td> <td><a href="https://leetcode.com/problems/removing-stars-from-a-string/">Removing Stars From a String</td>
       <td>14.</td> <td><a href=""></td>
       <td>15.</td> <td><a href=""></td>
     </tr>

@@ -487,7 +487,7 @@
    <tr>
       <td>16.</td> <td><a href="https://leetcode.com/problems/01-matrix/">01 Matrix</td>
       <td>17.</td> <td><a href="https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/">Count Number of Maximum Bitwise-OR Subsets</td>
-      <td>18.</td> <td><a href=""></td>
+      <td>18.</td> <td><a href="https://leetcode.com/problems/number-of-ways-to-select-buildings/">Number of Ways to Select Buildings</td>
       <td>19.</td> <td><a href=""></td>
       <td>20.</td> <td><a href=""></td>
    </tr> 

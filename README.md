@@ -25,7 +25,7 @@
   </table>
 
 
-2. **Arrays: Running Sum, Partition.**
+2. **Arrays: Running Sum, Partition, U-turn.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/arrays_running_sum.ipynb)
   <table>
@@ -50,9 +50,11 @@
     <tr>
       <td>11.</td> <td><a href="https://leetcode.com/problems/defuse-the-bomb/">Defuse the Bomb</td>
       <td>12.</td> <td><a href="https://leetcode.com/problems/most-visited-sector-in-a-circular-track/">Most Visited Sector in a Circular Track</td>
-      <td>13.</td> <td><a href=""></td>
-      <td>14.</td> <td><a href=""></td>
-      <td>15.</td> <td><a href=""></td>
+      <td>13.</td> <td><a href="https://leetcode.com/problems/next-permutation/description/">Next Permutation</td>
+      <td>14.</td> <td><a href="https://leetcode.com/problems/permutations-ii/description/">Permutations II
+</td>
+      <td>15.</td> <td><a href="https://leetcode.com/problems/monotone-increasing-digits/description/">Monotone Increasing Digits
+</td>
     </tr>
   </tbody>
   </table>
@@ -488,9 +490,17 @@
       <td>16.</td> <td><a href="https://leetcode.com/problems/01-matrix/">01 Matrix</td>
       <td>17.</td> <td><a href="https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/">Count Number of Maximum Bitwise-OR Subsets</td>
       <td>18.</td> <td><a href="https://leetcode.com/problems/number-of-ways-to-select-buildings/">Number of Ways to Select Buildings</td>
-      <td>19.</td> <td><a href=""></td>
-      <td>20.</td> <td><a href=""></td>
+      <td>19.</td> <td><a href="https://leetcode.com/problems/maximize-win-from-two-segments/description/">Maximize Win From Two Segments</td>
+      <td>20.</td> <td><a href="https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/description/">Check if There is a Valid Partition For The Array</td>
    </tr> 
+   <tr>
+      <td>21.</td> <td><a href="https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/">Maximum Subarray Sum with One Deletion
+</td>
+      <td>22.</td> <td><a href=""></td>
+      <td>23.</td> <td><a href=""></td>
+      <td>24.</td> <td><a href=""></td>
+      <td>25.</td> <td><a href=""></td>
+   </tr>
  </tbody>
  </table>
 

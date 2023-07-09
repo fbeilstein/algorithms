@@ -252,6 +252,13 @@
       <td>9.</td> <td><a href="https://leetcode.com/problems/sort-list/">Sort List</td>
       <td>10.</td> <td><a href="https://leetcode.com/problems/find-closest-number-to-zero/discuss/1955207/1-liners">Find Closest Number to Zero</td>
     </tr>
+    <tr>
+      <td>11.</td> <td><a href="https://leetcode.com/problems/largest-number/description/">Largest Number</td>
+      <td>12.</td> <td><a href=""></td>
+      <td>13.</td> <td><a href=""></td>
+      <td>14.</td> <td><a href=""></td>
+      <td>15.</td> <td><a href=""></td>
+    </tr>
   </tbody>
   </table>
 
@@ -579,7 +586,7 @@
     <tr>
       <td>6.</td> <td><a href="https://leetcode.com/problems/gray-code/">Gray Code</td>
       <td>7.</td> <td><a href="https://leetcode.com/problems/circular-permutation-in-binary-representation/">Circular Permutation in Binary Representation</td>
-      <td>8.</td> <td><a href=""></td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/neighboring-bitwise-xor/description/">Neighboring Bitwise XOR</td>
       <td>9.</td> <td><a href=""></td>
       <td>10.</td> <td><a href=""></td>
     </tr>

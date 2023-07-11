@@ -165,6 +165,37 @@
   </tbody>
   </table>
 
+5.5. **Backtracking**
+
+  * Lecture Notes in Colab (in progress)
+  <table>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/combinations/description/">Combinations</a></td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/combination-sum/description/">Combination Sum</a></td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/combination-sum-ii/description/">Combination Sum II</a></td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/combination-sum-iii/description/">Combination Sum III</a></td> 
+      <td>5.</td> <td><a href="https://leetcode.com/problems/fair-distribution-of-cookies/description/">Fair Distribution of Cookies</a></td>
+    </tr>
+    <tr>
+      <td>6.</td> <td><a href=""></a></td>
+      <td>7.</td> <td><a href=""></a></td>
+      <td>8.</td> <td><a href=""></a></td>
+      <td>9.</td> <td><a href=""></a></td>
+      <td>10.</td> <td><a href=""></a></td>
+    </tr>
+    <tr>
+      <td>11.</td> <td><a href=""></a></td>
+      <td>12.</td> <td><a href=""></a></td>
+      <td>13.</td> <td><a href=""></a></td>
+      <td>14.</td> <td><a href=""></a></td>
+      <td>15.</td> <td><a href=""></a></td>
+    </tr>
+  </tbody>
+  </table>
 
 6. **Manipulating bits.**
   

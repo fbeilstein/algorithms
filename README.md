@@ -534,8 +534,8 @@
    <tr>
       <td>21.</td> <td><a href="https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/">Maximum Subarray Sum with One Deletion
 </td>
-      <td>22.</td> <td><a href=""></td>
-      <td>23.</td> <td><a href=""></td>
+      <td>22.</td> <td><a href="https://leetcode.com/problems/maximum-subarray/description/" style=":hover div {color: red}"><div>Maximum</div> Subarray</td>
+      <td>23.</td> <td><a href="https://leetcode.com/problems/maximum-sum-circular-subarray/description/">Maximum Sum Circular Subarray</td>
       <td>24.</td> <td><a href=""></td>
       <td>25.</td> <td><a href=""></td>
    </tr>

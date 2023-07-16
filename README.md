@@ -504,40 +504,39 @@
   </tr></thead>
   <tbody>
     <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/is-subsequence/">Is Subsequence</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/partition-array-for-maximum-sum/">Partition Array for Maximum Sum</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/">Count Square Submatrices with All Ones</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/flip-string-to-monotone-increasing/">Flip String to Monotone Increasing</td>
-      <td>5.</td>  <td><a href="https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/">Minimum Deletions to Make String Balanced</td>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/is-subsequence/">Is Subsequence</a></td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/partition-array-for-maximum-sum/">Partition Array for Maximum Sum</a></td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/">Count Square Submatrices with All Ones</a></td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/flip-string-to-monotone-increasing/">Flip String to Monotone Increasing</a></td>
+      <td>5.</td>  <td><a href="https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/">Minimum Deletions to Make String Balanced</a></td>
     </tr>
     <tr>
-      <td>6.</td>  <td><a href="https://leetcode.com/problems/house-robber/">House Robber</td>
-      <td>7.</td>  <td><a href="https://leetcode.com/problems/count-sorted-vowel-strings/">Count Sorted Vowel Strings</td>
-      <td>8.</td>  <td><a href="https://leetcode.com/problems/unique-binary-search-trees/">Unique Binary Search Trees</td>
-      <td>9.</td>  <td><a href="https://leetcode.com/problems/unique-paths/">Unique Paths</td>
-      <td>10.</td>  <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</td>
+      <td>6.</td>  <td><a href="https://leetcode.com/problems/house-robber/">House Robber</a></td>
+      <td>7.</td>  <td><a href="https://leetcode.com/problems/count-sorted-vowel-strings/">Count Sorted Vowel Strings</a></td>
+      <td>8.</td>  <td><a href="https://leetcode.com/problems/unique-binary-search-trees/">Unique Binary Search Trees</a></td>
+      <td>9.</td>  <td><a href="https://leetcode.com/problems/unique-paths/">Unique Paths</a></td>
+      <td>10.</td>  <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</a></td>
     </tr>
     <tr>
-      <td>11.</td>  <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</td>
-      <td>12.</td>  <td><a href="https://leetcode.com/problems/min-cost-climbing-stairs/">Min Cost Climbing Stairs</td>
-      <td>13.</td>  <td><a href="https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/">Egg Drop With 2 Eggs and N Floors</td>
-      <td>14.</td>  <td><a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</td>
-      <td>15.</td>  <td><a href="https://leetcode.com/problems/longest-common-subsequence/">Longest Common Subsequence</td>
+      <td>11.</td>  <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</a></td>
+      <td>12.</td>  <td><a href="https://leetcode.com/problems/min-cost-climbing-stairs/">Min Cost Climbing Stairs</a></td>
+      <td>13.</td>  <td><a href="https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/">Egg Drop With 2 Eggs and N Floors</a></td>
+      <td>14.</td>  <td><a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</a></td>
+      <td>15.</td>  <td><a href="https://leetcode.com/problems/longest-common-subsequence/">Longest Common Subsequence</a></td>
    </tr>
    <tr>
-      <td>16.</td> <td><a href="https://leetcode.com/problems/01-matrix/">01 Matrix</td>
-      <td>17.</td> <td><a href="https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/">Count Number of Maximum Bitwise-OR Subsets</td>
-      <td>18.</td> <td><a href="https://leetcode.com/problems/number-of-ways-to-select-buildings/">Number of Ways to Select Buildings</td>
-      <td>19.</td> <td><a href="https://leetcode.com/problems/maximize-win-from-two-segments/description/">Maximize Win From Two Segments</td>
-      <td>20.</td> <td><a href="https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/description/">Check if There is a Valid Partition For The Array</td>
+      <td>16.</td> <td><a href="https://leetcode.com/problems/01-matrix/">01 Matrix</a></td>
+      <td>17.</td> <td><a href="https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/">Count Number of Maximum Bitwise-OR Subsets</a></td>
+      <td>18.</td> <td><a href="https://leetcode.com/problems/number-of-ways-to-select-buildings/">Number of Ways to Select Buildings</a></td>
+      <td>19.</td> <td><a href="https://leetcode.com/problems/maximize-win-from-two-segments/description/">Maximize Win From Two Segments</a></td>
+      <td>20.</td> <td><a href="https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/description/">Check if There is a Valid Partition For The Array</a></td>
    </tr> 
    <tr>
-      <td>21.</td> <td><a href="https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/">Maximum Subarray Sum with One Deletion
-</td>
-      <td>22.</td> <td><a href="https://leetcode.com/problems/maximum-subarray/description/" style=":hover div {color: red}"><div>Maximum</div> Subarray</td>
-      <td>23.</td> <td><a href="https://leetcode.com/problems/maximum-sum-circular-subarray/description/">Maximum Sum Circular Subarray</td>
-      <td>24.</td> <td><a href=""></td>
-      <td>25.</td> <td><a href=""></td>
+      <td>21.</td> <td><a href="https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/">Maximum Subarray Sum with One Deletion</a></td>
+      <td>22.</td> <td><a href="https://leetcode.com/problems/maximum-subarray/description/">Maximum Subarray</a></td>
+      <td>23.</td> <td><a href="https://leetcode.com/problems/maximum-sum-circular-subarray/description/">Maximum Sum Circular Subarray</a></td>
+      <td>24.</td> <td><a href="https://leetcode.com/problems/delete-and-earn/description/">Delete and Earn</a></td>
+      <td>25.</td> <td><a href=""></a></td>
    </tr>
  </tbody>
  </table>

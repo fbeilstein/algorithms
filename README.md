@@ -380,7 +380,7 @@
       <td>12.</td> <td><a href="https://leetcode.com/problems/koko-eating-bananas/">Koko Eating Bananas</a></td>
       <td>13.</td> <td><a href="https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/">Capacity To Ship Packages Within D Days</a></td>
       <td>14.</td> <td><a href="https://leetcode.com/problems/maximum-subarray/description/">Maximum Subarray</a></td>
-      <td>15.</td> <td><a href=""></a></td>
+      <td>15.</td> <td><a href="https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/description/">Maximum Value at a Given Index in a Bounded Array</a></td>
     </tr>
   </tbody>
   </table>

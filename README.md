@@ -34,28 +34,34 @@
   </tr></thead>
   <tbody>
     <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/">Minimum Value to Get Positive Step by Step Sum</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/">Best Time to Buy and Sell Stock II</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/range-addition-ii/">Range Addition II</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/n-repeated-element-in-size-2n-array/">N-Repeated Element in Size 2N Array</td> 
+      <td>1.</td> <td><a href="https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/">Minimum Value to Get Positive Step by Step Sum</a></td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/">Best Time to Buy and Sell Stock II</a></td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/range-addition-ii/">Range Addition II</a></td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</a></td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/n-repeated-element-in-size-2n-array/">N-Repeated Element in Size 2N Array</a></td> 
     </tr>
     <tr>
-      <td>6.</td>  <td><a href="https://leetcode.com/problems/majority-element/">Majority Element</td>
-      <td>7.</td>  <td><a href="https://leetcode.com/problems/rotate-image/">Rotate Image</td>
-      <td>8.</td>  <td><a href="https://leetcode.com/problems/find-the-duplicate-number/">Find the Duplicate Number</td>
-      <td>9.</td>  <td><a href="https://leetcode.com/problems/partition-array-into-disjoint-intervals/">Partition Array into Disjoint Intervals</td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/valid-mountain-array/">Valid Mountain Array</td>
+      <td>6.</td>  <td><a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
+      <td>7.</td>  <td><a href="https://leetcode.com/problems/rotate-image/">Rotate Image</a></td>
+      <td>8.</td>  <td><a href="https://leetcode.com/problems/find-the-duplicate-number/">Find the Duplicate Number</a></td>
+      <td>9.</td>  <td><a href="https://leetcode.com/problems/partition-array-into-disjoint-intervals/">Partition Array into Disjoint Intervals</a></td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/valid-mountain-array/">Valid Mountain Array</a></td>
     </tr> 
     <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/defuse-the-bomb/">Defuse the Bomb</td>
-      <td>12.</td> <td><a href="https://leetcode.com/problems/most-visited-sector-in-a-circular-track/">Most Visited Sector in a Circular Track</td>
-      <td>13.</td> <td><a href="https://leetcode.com/problems/next-permutation/description/">Next Permutation</td>
-      <td>14.</td> <td><a href="https://leetcode.com/problems/permutations-ii/description/">Permutations II
-</td>
-      <td>15.</td> <td><a href="https://leetcode.com/problems/monotone-increasing-digits/description/">Monotone Increasing Digits
-</td>
+      <td>11.</td> <td><a href="https://leetcode.com/problems/defuse-the-bomb/">Defuse the Bomb</a></td>
+      <td>12.</td> <td><a href="https://leetcode.com/problems/most-visited-sector-in-a-circular-track/">Most Visited Sector in a Circular Track</a></td>
+      <td>13.</td> <td><a href="https://leetcode.com/problems/next-permutation/description/">Next Permutation</a></td>
+      <td>14.</td> <td><a href="https://leetcode.com/problems/permutations-ii/description/">Permutations II</a></td>
+      <td>15.</td> <td><a href="https://leetcode.com/problems/monotone-increasing-digits/description/">Monotone Increasing Digits</a></td>
     </tr>
+    <tr>
+      <td>16.</td> <td><a href="https://leetcode.com/problems/increasing-triplet-subsequence/description/">Increasing Triplet Subsequence</a></td>
+      <td>17.</td> <td><a href=""></a></td>
+      <td>18.</td> <td><a href=""></a></td>
+      <td>19.</td> <td><a href=""></a></td>
+      <td>20.</td> <td><a href=""></a></td>
+    </tr>
+
   </tbody>
   </table>
 
@@ -578,7 +584,9 @@
      - [Lectures on Hash Table](https://www.youtube.com/watch?v=2E54GqF0H4s&list=PLDV1Zeh2NRsDH5Wq-Vk5tDb8gH03cULZS)
 
 
+## Methodological Notes
 
+* [Methodological Notes](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/methodological_notes.ipynb)
 
 ## Instructions
 

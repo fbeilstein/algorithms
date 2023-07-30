@@ -335,25 +335,25 @@
   </tr></thead>
   <tbody>
     <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/remove-stones-to-minimize-the-total/">Remove Stones to Minimize the Total</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/seat-reservation-manager/">Seat Reservation Manager</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/find-median-from-data-stream/">Find Median from Data Stream</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/furthest-building-you-can-reach/submissions/">Furthest Building You Can Reach</td>
-      <td>5.</td> <td><a href=""></td>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/remove-stones-to-minimize-the-total/">Remove Stones to Minimize the Total</a></td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/seat-reservation-manager/">Seat Reservation Manager</a></td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/find-median-from-data-stream/">Find Median from Data Stream</a></td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/furthest-building-you-can-reach/submissions/">Furthest Building You Can Reach</a></td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/total-cost-to-hire-k-workers/description/">Total Cost to Hire K Workers</a></td>
     </tr>
     <tr>
-      <td>6.</td> <td><a href=""></td>
-      <td>7.</td> <td><a href=""></td>
-      <td>8.</td> <td><a href=""></td>
-      <td>9.</td> <td><a href=""></td>
-      <td>10.</td> <td><a href=""></td>
+      <td>6.</td> <td><a href=""></a></td>
+      <td>7.</td> <td><a href=""></a></td>
+      <td>8.</td> <td><a href=""></a></td>
+      <td>9.</td> <td><a href=""></a></td>
+      <td>10.</td> <td><a href=""></a></td>
     </tr>
     <tr>
-      <td>11.</td> <td><a href=""></td>
-      <td>12.</td> <td><a href=""></td>
-      <td>13.</td> <td><a href=""></td>
-      <td>14.</td> <td><a href=""></td>
-      <td>15.</td> <td><a href=""></td>
+      <td>11.</td> <td><a href=""></a></td>
+      <td>12.</td> <td><a href=""></a></td>
+      <td>13.</td> <td><a href=""></a></td>
+      <td>14.</td> <td><a href=""></a></td>
+      <td>15.</td> <td><a href=""></a></td>
     </tr>
   </tbody>
   </table>
@@ -542,7 +542,8 @@
       <td>22.</td> <td><a href="https://leetcode.com/problems/maximum-subarray/description/">Maximum Subarray</a></td>
       <td>23.</td> <td><a href="https://leetcode.com/problems/maximum-sum-circular-subarray/description/">Maximum Sum Circular Subarray</a></td>
       <td>24.</td> <td><a href="https://leetcode.com/problems/delete-and-earn/description/">Delete and Earn</a></td>
-      <td>25.</td> <td><a href=""></a></td>
+      <td>25.</td> <td><a href="https://leetcode.com/problems/visit-array-positions-to-maximize-score/description/">Visit Array Positions to Maximize Score
+</a></td>
    </tr>
  </tbody>
  </table>

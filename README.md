@@ -75,32 +75,32 @@
   </tr></thead>
   <tbody>
     <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/arithmetic-slices/">Arithmetic Slices</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/">Detect Pattern of Length M Repeated K or More Times</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/longest-continuous-increasing-subsequence/">Longest Continuous Increasing Subsequence</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/">Maximum Distance Between a Pair of Values</td>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/arithmetic-slices/">Arithmetic Slices</a></td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/">Detect Pattern of Length M Repeated K or More Times</a></td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/longest-continuous-increasing-subsequence/">Longest Continuous Increasing Subsequence</a></td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</a></td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/">Maximum Distance Between a Pair of Values</a></td>
     </tr>
     <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/replace-the-substring-for-balanced-string/">Replace the Substring for Balanced String</td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/sort-colors/">Sort Colors</td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/number-of-substrings-with-only-1s/">Number of Substrings With Only 1s</td>
-      <td>9.</td> <td><a href="https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/">Maximum Distance Between a Pair of Values</td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</td>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/replace-the-substring-for-balanced-string/">Replace the Substring for Balanced String</a></td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/sort-colors/">Sort Colors</a></td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/number-of-substrings-with-only-1s/">Number of Substrings With Only 1s</a></td>
+      <td>9.</td> <td><a href="https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/">Maximum Distance Between a Pair of Values</a></td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
     </tr> 
     <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Minimum Size Subarray Sum</td>
-      <td>12.</td> <td><a href="https://leetcode.com/problems/rotate-array/">Rotate Array</td>
-      <td>13.</td> <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</td>
-      <td>14.</td> <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</td>
-      <td>15.</td> <td><a href="https://leetcode.com/problems/move-zeroes/">Move Zeroes</td>
+      <td>11.</td> <td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Minimum Size Subarray Sum</a></td>
+      <td>12.</td> <td><a href="https://leetcode.com/problems/rotate-array/">Rotate Array</a></td>
+      <td>13.</td> <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</a></td>
+      <td>14.</td> <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</a></td>
+      <td>15.</td> <td><a href="https://leetcode.com/problems/move-zeroes/">Move Zeroes</a></td>
     </tr>
     <tr>
-      <td>16.</td> <td><a href="https://leetcode.com/problems/sum-of-square-numbers/">Sum of Square Numbers</td>
-      <td>17.</td> <td><a href="https://leetcode.com/problems/permutation-in-string/">Permutation in String</td>
-      <td>18.</td> <td><a href=""></td>
-      <td>19.</td> <td><a href=""></td>
-      <td>20.</td> <td><a href=""></td>
+      <td>16.</td> <td><a href="https://leetcode.com/problems/sum-of-square-numbers/">Sum of Square Numbers</a></td>
+      <td>17.</td> <td><a href="https://leetcode.com/problems/permutation-in-string/">Permutation in String</a></td>
+      <td>18.</td> <td><a href="https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/">Shortest Subarray to be Removed to Make Array Sorted</a></td>
+      <td>19.</td> <td><a href=""></a></td>
+      <td>20.</td> <td><a href=""></a></td>
     </tr>
   </tbody>
   </table>

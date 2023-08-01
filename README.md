@@ -542,9 +542,17 @@
       <td>22.</td> <td><a href="https://leetcode.com/problems/maximum-subarray/description/">Maximum Subarray</a></td>
       <td>23.</td> <td><a href="https://leetcode.com/problems/maximum-sum-circular-subarray/description/">Maximum Sum Circular Subarray</a></td>
       <td>24.</td> <td><a href="https://leetcode.com/problems/delete-and-earn/description/">Delete and Earn</a></td>
-      <td>25.</td> <td><a href="https://leetcode.com/problems/visit-array-positions-to-maximize-score/description/">Visit Array Positions to Maximize Score
-</a></td>
+      <td>25.</td> <td><a href="https://leetcode.com/problems/visit-array-positions-to-maximize-score/description/">Visit Array Positions to Maximize Score</a></td>
    </tr>
+
+   <tr>
+      <td>26.</td> <td><a href="https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/description/">Find Two Non-overlapping Sub-arrays Each With Target Sum</a></td>
+      <td>27.</td> <td><a href=""></a></td>
+      <td>28.</td> <td><a href=""></a></td>
+      <td>29.</td> <td><a href=""></a></td>
+      <td>30.</td> <td><a href=""></a></td>
+   </tr>
+   
  </tbody>
  </table>
 

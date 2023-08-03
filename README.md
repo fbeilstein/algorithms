@@ -213,22 +213,29 @@
   </tr></thead>
   <tbody>
     <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/single-number/">Single Number</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/power-of-two/">Power of Two</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/number-of-1-bits/">Number of 1 Bits</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square/">Determine Color of a Chessboard Square</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/power-of-three/">Power of Three</td>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/single-number/">Single Number</a></td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/power-of-two/">Power of Two</a></td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/number-of-1-bits/">Number of 1 Bits</a></td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square/">Determine Color of a Chessboard Square</a></td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/power-of-three/">Power of Three</a></td>
     </tr>
     <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/power-of-four/">Power of Four</td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/adding-two-negabinary-numbers/">Adding Two Negabinary Numbers</td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/">Find Elements in a Contaminated Binary Tree</td>
-      <td>9.</td> <td><a href="https://leetcode.com/problems/gray-code/">Gray Code</td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/circular-permutation-in-binary-representation/">Circular Permutation in Binary Representation</td>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/power-of-four/">Power of Four</a></td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/adding-two-negabinary-numbers/">Adding Two Negabinary Numbers</a></td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/">Find Elements in a Contaminated Binary Tree</a></td>
+      <td>9.</td> <td><a href="https://leetcode.com/problems/gray-code/">Gray Code</a></td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/circular-permutation-in-binary-representation/">Circular Permutation in Binary Representation</a></td>
+    </tr>
+    <tr>
+      <td>11.</td> <td><a href="https://leetcode.com/problems/elimination-game/description/">Elimination Game</a></td>
+      <td>12.</td> <td><a href=""></a></td>
+      <td>13.</td> <td><a href=""></a></td>
+      <td>14.</td> <td><a href=""></a></td>
+      <td>15.</td> <td><a href=""></a></td>
     </tr>
   </tbody>
   </table>
-  
+       
   * Further Resources:
      - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
      - [NandGame](https://nandgame.com/)

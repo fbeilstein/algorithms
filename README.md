@@ -56,7 +56,7 @@
     </tr>
     <tr>
       <td>16.</td> <td><a href="https://leetcode.com/problems/increasing-triplet-subsequence/description/">Increasing Triplet Subsequence</a></td>
-      <td>17.</td> <td><a href=""></a></td>
+      <td>17.</td> <td><a href="https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/">Longest Substring with At Least K Repeating Characters</a></td>
       <td>18.</td> <td><a href=""></a></td>
       <td>19.</td> <td><a href=""></a></td>
       <td>20.</td> <td><a href=""></a></td>
@@ -250,25 +250,25 @@
   </tr></thead>
   <tbody>
     <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/">Remove All Adjacent Duplicates in String II</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/valid-parentheses/">Valid Parentheses</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/implement-stack-using-queues/">Implement Stack using Queues</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/implement-queue-using-stacks/">Implement Queue using Stacks</td>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/">Remove All Adjacent Duplicates in String II</a></td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a></td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/valid-parentheses/">Valid Parentheses</a></td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/implement-stack-using-queues/">Implement Stack using Queues</a></td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/implement-queue-using-stacks/">Implement Queue using Stacks</a></td>
     </tr>
     <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/next-greater-element-ii/">Next Greater Element II</td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/maximum-width-ramp/">Maximum Width Ramp</td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/find-the-most-competitive-subsequence/">Find the Most Competitive Subsequence</td>
-      <td>9.</td> <td><a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">Evaluate Reverse Polish Notation</td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/asteroid-collision/">Asteroid Collision</td>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/next-greater-element-ii/">Next Greater Element II</a></td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/maximum-width-ramp/">Maximum Width Ramp</a></td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/find-the-most-competitive-subsequence/">Find the Most Competitive Subsequence</a></td>
+      <td>9.</td> <td><a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">Evaluate Reverse Polish Notation</a></td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/asteroid-collision/">Asteroid Collision</a></td>
     </tr>
     <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/next-greater-node-in-linked-list/">Next Greater Node In Linked List</td>
-      <td>12.</td> <td><a href="https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/">Minimum Number of Swaps to Make the String Balanced</td>
-      <td>13.</td> <td><a href="https://leetcode.com/problems/removing-stars-from-a-string/">Removing Stars From a String</td>
-      <td>14.</td> <td><a href=""></td>
-      <td>15.</td> <td><a href=""></td>
+      <td>11.</td> <td><a href="https://leetcode.com/problems/next-greater-node-in-linked-list/">Next Greater Node In Linked List</a></td>
+      <td>12.</td> <td><a href="https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/">Minimum Number of Swaps to Make the String Balanced</a></td>
+      <td>13.</td> <td><a href="https://leetcode.com/problems/removing-stars-from-a-string/">Removing Stars From a String</a></td>
+      <td>14.</td> <td><a href="https://leetcode.com/problems/remove-k-digits/description/">Remove K Digits</a></td>
+      <td>15.</td> <td><a href=""></a></td>
     </tr>
   </tbody>
   </table>
@@ -554,7 +554,7 @@
 
    <tr>
       <td>26.</td> <td><a href="https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/description/">Find Two Non-overlapping Sub-arrays Each With Target Sum</a></td>
-      <td>27.</td> <td><a href=""></a></td>
+      <td>27.</td> <td><a href="https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/description/">First Day Where You Have Been in All the Rooms</a></td>
       <td>28.</td> <td><a href=""></a></td>
       <td>29.</td> <td><a href=""></a></td>
       <td>30.</td> <td><a href=""></a></td>

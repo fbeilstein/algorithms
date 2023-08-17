@@ -187,7 +187,7 @@
       <td>5.</td> <td><a href="https://leetcode.com/problems/fair-distribution-of-cookies/description/">Fair Distribution of Cookies</a></td>
     </tr>
     <tr>
-      <td>6.</td> <td><a href=""></a></td>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/palindrome-partitioning/description/">Palindrome Partitioning</a></td>
       <td>7.</td> <td><a href=""></a></td>
       <td>8.</td> <td><a href=""></a></td>
       <td>9.</td> <td><a href=""></a></td>

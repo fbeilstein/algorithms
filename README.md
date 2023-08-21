@@ -555,7 +555,7 @@
    <tr>
       <td>26.</td> <td><a href="https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/description/">Find Two Non-overlapping Sub-arrays Each With Target Sum</a></td>
       <td>27.</td> <td><a href="https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/description/">First Day Where You Have Been in All the Rooms</a></td>
-      <td>28.</td> <td><a href=""></a></td>
+      <td>28.</td> <td><a href="https://leetcode.com/problems/longest-palindromic-subsequence/description/">Longest Palindromic Subsequence</a></td>
       <td>29.</td> <td><a href=""></a></td>
       <td>30.</td> <td><a href=""></a></td>
    </tr>

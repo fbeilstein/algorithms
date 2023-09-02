@@ -27,7 +27,8 @@
 
 2. **Arrays: Running Sum, Partition, U-turn.**
 
-  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/arrays_running_sum.ipynb)
+  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_02_math_prerequisites.ipynb)
+  * [old](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/arrays_running_sum.ipynb)
   <table>
   <thead><tr> 
      <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>

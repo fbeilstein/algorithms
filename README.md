@@ -1,6 +1,6 @@
 # algorithms (in development)
 
-1. **Problem Solving. Complexity. O-notation.**
+1. **Problem Solving.**
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_01_methodology.ipynb)
   <table>
   <thead><tr> 
@@ -25,7 +25,7 @@
   </table>
 
 
-2. **Arrays: Running Sum, Partition, U-turn.**
+2. **Math. Complexity. O-notation.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_02_math_prerequisites.ipynb)
   * [old](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/arrays_running_sum.ipynb)
@@ -67,9 +67,10 @@
   </table>
 
 
-3. **Arrays: Two Pointers.**
+3. **Logic and Bits.**
 
-  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/arrays_two_pointers.ipynb)
+  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_03_logic_and_bits.ipynb)
+  * [old](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/arrays_two_pointers.ipynb)
   <table>
   <thead><tr> 
      <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>

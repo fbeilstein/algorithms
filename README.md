@@ -12,43 +12,40 @@
 3. **Logic and Bits.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_03_logic_and_bits.ipynb)
-  * [old](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/arrays_two_pointers.ipynb)
+<details>
+<summary>* Problems</summary>
   <table>
   <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
   </tr></thead>
   <tbody>
     <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/arithmetic-slices/">Arithmetic Slices</a></td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/">Detect Pattern of Length M Repeated K or More Times</a></td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/longest-continuous-increasing-subsequence/">Longest Continuous Increasing Subsequence</a></td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</a></td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/">Maximum Distance Between a Pair of Values</a></td>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/single-number/">Single Number</a></td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/power-of-two/">Power of Two</a></td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/number-of-1-bits/">Number of 1 Bits</a></td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square/">Determine Color of a Chessboard Square</a></td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/power-of-three/">Power of Three</a></td>
     </tr>
     <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/replace-the-substring-for-balanced-string/">Replace the Substring for Balanced String</a></td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/sort-colors/">Sort Colors</a></td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/number-of-substrings-with-only-1s/">Number of Substrings With Only 1s</a></td>
-      <td>9.</td> <td><a href="https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/">Maximum Distance Between a Pair of Values</a></td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
-    </tr> 
-    <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Minimum Size Subarray Sum</a></td>
-      <td>12.</td> <td><a href="https://leetcode.com/problems/rotate-array/">Rotate Array</a></td>
-      <td>13.</td> <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</a></td>
-      <td>14.</td> <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</a></td>
-      <td>15.</td> <td><a href="https://leetcode.com/problems/move-zeroes/">Move Zeroes</a></td>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/power-of-four/">Power of Four</a></td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/adding-two-negabinary-numbers/">Adding Two Negabinary Numbers</a></td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/">Find Elements in a Contaminated Binary Tree</a></td>
+      <td>9.</td> <td><a href="https://leetcode.com/problems/gray-code/">Gray Code</a></td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/circular-permutation-in-binary-representation/">Circular Permutation in Binary Representation</a></td>
     </tr>
     <tr>
-      <td>16.</td> <td><a href="https://leetcode.com/problems/sum-of-square-numbers/">Sum of Square Numbers</a></td>
-      <td>17.</td> <td><a href="https://leetcode.com/problems/permutation-in-string/">Permutation in String</a></td>
-      <td>18.</td> <td><a href="https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/">Shortest Subarray to be Removed to Make Array Sorted</a></td>
-      <td>19.</td> <td><a href=""></a></td>
-      <td>20.</td> <td><a href=""></a></td>
+      <td>11.</td> <td><a href="https://leetcode.com/problems/elimination-game/description/">Elimination Game</a></td>
+      <td>12.</td> <td><a href=""></a></td>
+      <td>13.</td> <td><a href=""></a></td>
+      <td>14.</td> <td><a href=""></a></td>
+      <td>15.</td> <td><a href=""></a></td>
     </tr>
   </tbody>
   </table>
-
+</details>       
+  * Further Resources:
+     - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
+     - [NandGame](https://nandgame.com/)
 
 4. **Lists. Difference Between Iterative and Recursive Approaches.**
 
@@ -151,38 +148,7 @@
   
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/bit_hacks.ipynb)
   
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/single-number/">Single Number</a></td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/power-of-two/">Power of Two</a></td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/number-of-1-bits/">Number of 1 Bits</a></td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square/">Determine Color of a Chessboard Square</a></td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/power-of-three/">Power of Three</a></td>
-    </tr>
-    <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/power-of-four/">Power of Four</a></td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/adding-two-negabinary-numbers/">Adding Two Negabinary Numbers</a></td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/">Find Elements in a Contaminated Binary Tree</a></td>
-      <td>9.</td> <td><a href="https://leetcode.com/problems/gray-code/">Gray Code</a></td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/circular-permutation-in-binary-representation/">Circular Permutation in Binary Representation</a></td>
-    </tr>
-    <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/elimination-game/description/">Elimination Game</a></td>
-      <td>12.</td> <td><a href=""></a></td>
-      <td>13.</td> <td><a href=""></a></td>
-      <td>14.</td> <td><a href=""></a></td>
-      <td>15.</td> <td><a href=""></a></td>
-    </tr>
-  </tbody>
-  </table>
-       
-  * Further Resources:
-     - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
-     - [NandGame](https://nandgame.com/)
+
 
 
 7. **Stack. Queue. Deque.**
@@ -753,3 +719,41 @@
 
   </tbody>
   </table>
+
+* [two pointers](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/arrays_two_pointers.ipynb)
+  <table>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/arithmetic-slices/">Arithmetic Slices</a></td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/">Detect Pattern of Length M Repeated K or More Times</a></td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/longest-continuous-increasing-subsequence/">Longest Continuous Increasing Subsequence</a></td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</a></td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/">Maximum Distance Between a Pair of Values</a></td>
+    </tr>
+    <tr>
+      <td>6.</td> <td><a href="https://leetcode.com/problems/replace-the-substring-for-balanced-string/">Replace the Substring for Balanced String</a></td>
+      <td>7.</td> <td><a href="https://leetcode.com/problems/sort-colors/">Sort Colors</a></td>
+      <td>8.</td> <td><a href="https://leetcode.com/problems/number-of-substrings-with-only-1s/">Number of Substrings With Only 1s</a></td>
+      <td>9.</td> <td><a href="https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/">Maximum Distance Between a Pair of Values</a></td>
+      <td>10.</td> <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
+    </tr> 
+    <tr>
+      <td>11.</td> <td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Minimum Size Subarray Sum</a></td>
+      <td>12.</td> <td><a href="https://leetcode.com/problems/rotate-array/">Rotate Array</a></td>
+      <td>13.</td> <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</a></td>
+      <td>14.</td> <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</a></td>
+      <td>15.</td> <td><a href="https://leetcode.com/problems/move-zeroes/">Move Zeroes</a></td>
+    </tr>
+    <tr>
+      <td>16.</td> <td><a href="https://leetcode.com/problems/sum-of-square-numbers/">Sum of Square Numbers</a></td>
+      <td>17.</td> <td><a href="https://leetcode.com/problems/permutation-in-string/">Permutation in String</a></td>
+      <td>18.</td> <td><a href="https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/">Shortest Subarray to be Removed to Make Array Sorted</a></td>
+      <td>19.</td> <td><a href=""></a></td>
+      <td>20.</td> <td><a href=""></a></td>
+    </tr>
+  </tbody>
+  </table>
+

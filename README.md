@@ -12,7 +12,8 @@
 3. **Logic and Bits.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_03_logic_and_bits.ipynb)
-<details>
+
+  <details>
    <summary>Problems</summary>
    <table>
    <thead><tr> 
@@ -42,7 +43,8 @@
      </tr>
    </tbody>
    </table>
- </details>       
+   </details>
+   
   * Further Resources:
      - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
      - [NandGame](https://nandgame.com/)

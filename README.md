@@ -49,37 +49,10 @@
      - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
      - [NandGame](https://nandgame.com/)
 
-4. **Lists. Difference Between Iterative and Recursive Approaches.**
+4. **Recursion.**
 
-  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lists.ipynb)
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/delete-node-in-a-linked-list/">Delete Node in a Linked List</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/linked-list-cycle/">Linked List Cycle</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">Intersection of Two Linked Lists</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/palindrome-linked-list/">Palindrome Linked List</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</td>
-    </tr>
-    <tr>
-     <td>6.</td> <td><a href="https://leetcode.com/problems/odd-even-linked-list/">Odd Even Linked List</td>
-     <td>7.</td> <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/">Remove Duplicates from Sorted List II</td>
-     <td>8.</td> <td><a href="https://leetcode.com/problems/merge-in-between-linked-lists/">Merge In Between Linked Lists</td>
-     <td>9.</td> <td><a href="https://leetcode.com/problems/reverse-linked-list-ii/">Reverse Linked List II</td>
-     <td>10.</td> <td><a href="https://leetcode.com/problems/split-linked-list-in-parts/">Split Linked List in Parts</td>
-    </tr>
-    <tr>
-     <td>11.</td> <td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</td>
-     <td>12.</td> <td><a href="https://leetcode.com/problems/design-linked-list/">Design Linked List</td>
-     <td>13.</td> <td><a href=""></td>
-     <td>14.</td> <td><a href=""></td>
-     <td>15.</td> <td><a href=""></td>
-    </tr>
-  </tbody>
-  </table>
+  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_04_recursion.ipynb)
+
 
 
 5. **Binary Tree.**
@@ -759,3 +732,35 @@
   </tbody>
   </table>
 
+
+. **Lists. Difference Between Iterative and Recursive Approaches.**
+
+  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lists.ipynb)
+  <table>
+  <thead><tr> 
+     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1.</td> <td><a href="https://leetcode.com/problems/delete-node-in-a-linked-list/">Delete Node in a Linked List</td>
+      <td>2.</td> <td><a href="https://leetcode.com/problems/linked-list-cycle/">Linked List Cycle</td>
+      <td>3.</td> <td><a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">Intersection of Two Linked Lists</td>
+      <td>4.</td> <td><a href="https://leetcode.com/problems/palindrome-linked-list/">Palindrome Linked List</td>
+      <td>5.</td> <td><a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</td>
+    </tr>
+    <tr>
+     <td>6.</td> <td><a href="https://leetcode.com/problems/odd-even-linked-list/">Odd Even Linked List</td>
+     <td>7.</td> <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/">Remove Duplicates from Sorted List II</td>
+     <td>8.</td> <td><a href="https://leetcode.com/problems/merge-in-between-linked-lists/">Merge In Between Linked Lists</td>
+     <td>9.</td> <td><a href="https://leetcode.com/problems/reverse-linked-list-ii/">Reverse Linked List II</td>
+     <td>10.</td> <td><a href="https://leetcode.com/problems/split-linked-list-in-parts/">Split Linked List in Parts</td>
+    </tr>
+    <tr>
+     <td>11.</td> <td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</td>
+     <td>12.</td> <td><a href="https://leetcode.com/problems/design-linked-list/">Design Linked List</td>
+     <td>13.</td> <td><a href=""></td>
+     <td>14.</td> <td><a href=""></td>
+     <td>15.</td> <td><a href=""></td>
+    </tr>
+  </tbody>
+  </table>

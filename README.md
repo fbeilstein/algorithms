@@ -53,8 +53,6 @@
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_04_recursion.ipynb)
 
-
-
 5. **Binary Tree.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/binary_tree.ipynb)
@@ -118,12 +116,6 @@
     </tr>
   </tbody>
   </table>
-
-6. **Manipulating bits.**
-  
-  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/bit_hacks.ipynb)
-  
-
 
 
 7. **Stack. Queue. Deque.**

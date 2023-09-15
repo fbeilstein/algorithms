@@ -49,9 +49,13 @@
      - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
      - [NandGame](https://nandgame.com/)
 
-4. **Recursion.**
+4. **Data Structures Overview**
 
-  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_04_recursion.ipynb)
+  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_04_data_structures.ipynb)
+
+5. **Recursion.**
+
+  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_05_recursion.ipynb)
 
 5. **Binary Tree.**
 

@@ -7,7 +7,6 @@
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_02_math_prerequisites.ipynb)
 
-<img src="https://raw.githubusercontent.com/fbeilstein/machine_learning/master/geotag.png" width="250px"/>
 
 3. **Logic and Bits.**
 
@@ -48,6 +47,8 @@
   * Further Resources:
      - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
      - [NandGame](https://nandgame.com/)
+
+<img src="https://raw.githubusercontent.com/fbeilstein/machine_learning/master/geotag.png" width="250px"/>
 
 4. **Data Structures Overview**
 

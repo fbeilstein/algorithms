@@ -58,6 +58,14 @@
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_05_recursion.ipynb)
 
+6. **Arrays 1**
+
+  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_06_arrays.ipynb)
+
+7. **Arrays 2**
+
+  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_07_arrays_two_pointers.ipynb)
+
 5. **Binary Tree.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/binary_tree.ipynb)

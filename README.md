@@ -58,6 +58,8 @@
 5. **Recursion.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_05_recursion.ipynb)
+  * Further Resources:
+     - Manuel Rubio-Sánchez, Introduction to Recursive Programming
 
 6. **Arrays 1**
 

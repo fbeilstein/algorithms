@@ -61,13 +61,19 @@
   * Further Resources:
      - Manuel Rubio-Sánchez, Introduction to Recursive Programming
 
-6. **Linear Algorithms on Arrays**
+6. **Linear Algorithms on Arrays 1**
 
-  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_06_linear_algorithms_on_arrays.ipynb)
+  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_06_linear_algorithms_on_arrays_1.ipynb)
 
-7. **Monotonic Stack**
 
-  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_07_monotonic_stack.ipynb)
+7. **Linear Algorithms on Arrays 2**
+
+  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_07_linear_algorithms_on_arrays_2.ipynb)
+
+
+8. **Monotonic Stack**
+
+  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_08_monotonic_stack.ipynb)
 
 5. **Binary Tree.**
 

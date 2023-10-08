@@ -53,13 +53,13 @@
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_04_data_structures.ipynb)
 
-<img src="https://raw.githubusercontent.com/fbeilstein/machine_learning/master/geotag.png" width="250px"/>
-
 5. **Recursion.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_05_recursion.ipynb)
   * Further Resources:
      - Manuel Rubio-Sánchez, Introduction to Recursive Programming
+
+<img src="https://raw.githubusercontent.com/fbeilstein/machine_learning/master/geotag.png" width="250px"/>
 
 6. **Linear Algorithms on Arrays 1**
 

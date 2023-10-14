@@ -59,12 +59,11 @@
   * Further Resources:
      - Manuel Rubio-Sánchez, Introduction to Recursive Programming
 
-<img src="https://raw.githubusercontent.com/fbeilstein/machine_learning/master/geotag.png" width="250px"/>
-
 6. **Linear Algorithms on Arrays 1**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_06_linear_algorithms_on_arrays_1.ipynb)
 
+<img src="https://raw.githubusercontent.com/fbeilstein/machine_learning/master/geotag.png" width="250px"/>
 
 7. **Linear Algorithms on Arrays 2**
 

@@ -48,35 +48,6 @@
 5.5. **Backtracking**
 
   * Lecture Notes in Colab (in progress)
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/combinations/description/">Combinations</a></td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/combination-sum/description/">Combination Sum</a></td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/combination-sum-ii/description/">Combination Sum II</a></td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/combination-sum-iii/description/">Combination Sum III</a></td> 
-      <td>5.</td> <td><a href="https://leetcode.com/problems/fair-distribution-of-cookies/description/">Fair Distribution of Cookies</a></td>
-    </tr>
-    <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/palindrome-partitioning/description/">Palindrome Partitioning</a></td>
-      <td>7.</td> <td><a href=""></a></td>
-      <td>8.</td> <td><a href=""></a></td>
-      <td>9.</td> <td><a href=""></a></td>
-      <td>10.</td> <td><a href=""></a></td>
-    </tr>
-    <tr>
-      <td>11.</td> <td><a href=""></a></td>
-      <td>12.</td> <td><a href=""></a></td>
-      <td>13.</td> <td><a href=""></a></td>
-      <td>14.</td> <td><a href=""></a></td>
-      <td>15.</td> <td><a href=""></a></td>
-    </tr>
-  </tbody>
-  </table>
-
 
 7. **Stack. Queue. Deque.**
 
@@ -348,58 +319,6 @@
 15. **Dynamic Programming**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/dynamic_programming.ipynb)
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/is-subsequence/">Is Subsequence</a></td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/partition-array-for-maximum-sum/">Partition Array for Maximum Sum</a></td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/">Count Square Submatrices with All Ones</a></td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/flip-string-to-monotone-increasing/">Flip String to Monotone Increasing</a></td>
-      <td>5.</td>  <td><a href="https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/">Minimum Deletions to Make String Balanced</a></td>
-    </tr>
-    <tr>
-      <td>6.</td>  <td><a href="https://leetcode.com/problems/house-robber/">House Robber</a></td>
-      <td>7.</td>  <td><a href="https://leetcode.com/problems/count-sorted-vowel-strings/">Count Sorted Vowel Strings</a></td>
-      <td>8.</td>  <td><a href="https://leetcode.com/problems/unique-binary-search-trees/">Unique Binary Search Trees</a></td>
-      <td>9.</td>  <td><a href="https://leetcode.com/problems/unique-paths/">Unique Paths</a></td>
-      <td>10.</td>  <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</a></td>
-    </tr>
-    <tr>
-      <td>11.</td>  <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</a></td>
-      <td>12.</td>  <td><a href="https://leetcode.com/problems/min-cost-climbing-stairs/">Min Cost Climbing Stairs</a></td>
-      <td>13.</td>  <td><a href="https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/">Egg Drop With 2 Eggs and N Floors</a></td>
-      <td>14.</td>  <td><a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</a></td>
-      <td>15.</td>  <td><a href="https://leetcode.com/problems/longest-common-subsequence/">Longest Common Subsequence</a></td>
-   </tr>
-   <tr>
-      <td>16.</td> <td><a href="https://leetcode.com/problems/01-matrix/">01 Matrix</a></td>
-      <td>17.</td> <td><a href="https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/">Count Number of Maximum Bitwise-OR Subsets</a></td>
-      <td>18.</td> <td><a href="https://leetcode.com/problems/number-of-ways-to-select-buildings/">Number of Ways to Select Buildings</a></td>
-      <td>19.</td> <td><a href="https://leetcode.com/problems/maximize-win-from-two-segments/description/">Maximize Win From Two Segments</a></td>
-      <td>20.</td> <td><a href="https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/description/">Check if There is a Valid Partition For The Array</a></td>
-   </tr> 
-   <tr>
-      <td>21.</td> <td><a href="https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/">Maximum Subarray Sum with One Deletion</a></td>
-      <td>22.</td> <td><a href="https://leetcode.com/problems/maximum-subarray/description/">Maximum Subarray</a></td>
-      <td>23.</td> <td><a href="https://leetcode.com/problems/maximum-sum-circular-subarray/description/">Maximum Sum Circular Subarray</a></td>
-      <td>24.</td> <td><a href="https://leetcode.com/problems/delete-and-earn/description/">Delete and Earn</a></td>
-      <td>25.</td> <td><a href="https://leetcode.com/problems/visit-array-positions-to-maximize-score/description/">Visit Array Positions to Maximize Score</a></td>
-   </tr>
-
-   <tr>
-      <td>26.</td> <td><a href="https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/description/">Find Two Non-overlapping Sub-arrays Each With Target Sum</a></td>
-      <td>27.</td> <td><a href="https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/description/">First Day Where You Have Been in All the Rooms</a></td>
-      <td>28.</td> <td><a href="https://leetcode.com/problems/longest-palindromic-subsequence/description/">Longest Palindromic Subsequence</a></td>
-      <td>29.</td> <td><a href=""></a></td>
-      <td>30.</td> <td><a href=""></a></td>
-   </tr>
-   
- </tbody>
- </table>
-
 
 16. **Hash Maps.**
 
@@ -491,6 +410,91 @@
     <td>14.</td> <td><a href="https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/">The k-th Lexicographical String of All Happy Strings of Length n</a></td>
     <td>15.</td> <td><a href=""></a></td>
   </tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary>Backtracking</summary>
+<table>
+<thead><tr> 
+   <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
+</tr></thead>
+<tbody>
+  <tr>
+    <td>1.</td> <td><a href="https://leetcode.com/problems/combinations/description/">Combinations</a></td>
+    <td>2.</td> <td><a href="https://leetcode.com/problems/combination-sum/description/">Combination Sum</a></td>
+    <td>3.</td> <td><a href="https://leetcode.com/problems/combination-sum-ii/description/">Combination Sum II</a></td>
+    <td>4.</td> <td><a href="https://leetcode.com/problems/combination-sum-iii/description/">Combination Sum III</a></td> 
+    <td>5.</td> <td><a href="https://leetcode.com/problems/fair-distribution-of-cookies/description/">Fair Distribution of Cookies</a></td>
+  </tr>
+  <tr>
+    <td>6.</td> <td><a href="https://leetcode.com/problems/palindrome-partitioning/description/">Palindrome Partitioning</a></td>
+    <td>7.</td> <td><a href=""></a></td>
+    <td>8.</td> <td><a href=""></a></td>
+    <td>9.</td> <td><a href=""></a></td>
+    <td>10.</td> <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>11.</td> <td><a href=""></a></td>
+    <td>12.</td> <td><a href=""></a></td>
+    <td>13.</td> <td><a href=""></a></td>
+    <td>14.</td> <td><a href=""></a></td>
+    <td>15.</td> <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary>Dynamic Programming</summary>
+<table>
+<thead><tr> 
+   <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
+</tr></thead>
+<tbody>
+  <tr>
+    <td>1.</td> <td><a href="https://leetcode.com/problems/is-subsequence/">Is Subsequence</a></td>
+    <td>2.</td> <td><a href="https://leetcode.com/problems/partition-array-for-maximum-sum/">Partition Array for Maximum Sum</a></td>
+    <td>3.</td> <td><a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/">Count Square Submatrices with All Ones</a></td>
+    <td>4.</td> <td><a href="https://leetcode.com/problems/flip-string-to-monotone-increasing/">Flip String to Monotone Increasing</a></td>
+    <td>5.</td>  <td><a href="https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/">Minimum Deletions to Make String Balanced</a></td>
+  </tr>
+  <tr>
+    <td>6.</td>  <td><a href="https://leetcode.com/problems/house-robber/">House Robber</a></td>
+    <td>7.</td>  <td><a href="https://leetcode.com/problems/count-sorted-vowel-strings/">Count Sorted Vowel Strings</a></td>
+    <td>8.</td>  <td><a href="https://leetcode.com/problems/unique-binary-search-trees/">Unique Binary Search Trees</a></td>
+    <td>9.</td>  <td><a href="https://leetcode.com/problems/unique-paths/">Unique Paths</a></td>
+    <td>10.</td>  <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</a></td>
+  </tr>
+  <tr>
+    <td>11.</td>  <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</a></td>
+    <td>12.</td>  <td><a href="https://leetcode.com/problems/min-cost-climbing-stairs/">Min Cost Climbing Stairs</a></td>
+    <td>13.</td>  <td><a href="https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/">Egg Drop With 2 Eggs and N Floors</a></td>
+    <td>14.</td>  <td><a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</a></td>
+    <td>15.</td>  <td><a href="https://leetcode.com/problems/longest-common-subsequence/">Longest Common Subsequence</a></td>
+ </tr>
+ <tr>
+    <td>16.</td> <td><a href="https://leetcode.com/problems/01-matrix/">01 Matrix</a></td>
+    <td>17.</td> <td><a href="https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/">Count Number of Maximum Bitwise-OR Subsets</a></td>
+    <td>18.</td> <td><a href="https://leetcode.com/problems/number-of-ways-to-select-buildings/">Number of Ways to Select Buildings</a></td>
+    <td>19.</td> <td><a href="https://leetcode.com/problems/maximize-win-from-two-segments/description/">Maximize Win From Two Segments</a></td>
+    <td>20.</td> <td><a href="https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/description/">Check if There is a Valid Partition For The Array</a></td>
+ </tr> 
+ <tr>
+    <td>21.</td> <td><a href="https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/">Maximum Subarray Sum with One Deletion</a></td>
+    <td>22.</td> <td><a href="https://leetcode.com/problems/maximum-subarray/description/">Maximum Subarray</a></td>
+    <td>23.</td> <td><a href="https://leetcode.com/problems/maximum-sum-circular-subarray/description/">Maximum Sum Circular Subarray</a></td>
+    <td>24.</td> <td><a href="https://leetcode.com/problems/delete-and-earn/description/">Delete and Earn</a></td>
+    <td>25.</td> <td><a href="https://leetcode.com/problems/visit-array-positions-to-maximize-score/description/">Visit Array Positions to Maximize Score</a></td>
+ </tr>
+ <tr>
+    <td>26.</td> <td><a href="https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/description/">Find Two Non-overlapping Sub-arrays Each With Target Sum</a></td>
+    <td>27.</td> <td><a href="https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/description/">First Day Where You Have Been in All the Rooms</a></td>
+    <td>28.</td> <td><a href="https://leetcode.com/problems/longest-palindromic-subsequence/description/">Longest Palindromic Subsequence</a></td>
+    <td>29.</td> <td><a href=""></a></td>
+    <td>30.</td> <td><a href=""></a></td>
+ </tr>
 </tbody>
 </table>
 </details>

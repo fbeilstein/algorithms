@@ -497,6 +497,9 @@
 * Further Resources:
      - [Lectures on Hash Table](https://www.youtube.com/watch?v=2E54GqF0H4s&list=PLDV1Zeh2NRsDH5Wq-Vk5tDb8gH03cULZS)
 
+## Cool Separate Lectures
+
+* [Skip Lists](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/methodological_notes.ipynb)
 
 ## Methodological Notes
 

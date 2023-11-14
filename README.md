@@ -499,7 +499,7 @@
 
 ## Cool Separate Lectures
 
-* [Skip Lists](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/methodological_notes.ipynb)
+* [Skip Lists](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/Skiplist.ipynb)
 
 ## Methodological Notes
 

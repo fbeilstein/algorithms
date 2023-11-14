@@ -44,34 +44,6 @@
 5. **Binary Tree.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/binary_tree.ipynb)
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/diameter-of-binary-tree/">Diameter of Binary Tree</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/sum-root-to-leaf-numbers/">Sum Root to Leaf Numbers</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/sum-of-left-leaves/">Sum of Left Leaves</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</td> 
-      <td>5.</td> <td><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">Minimum Depth of Binary Tree</td>
-    </tr>
-    <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/binary-tree-tilt/">Binary Tree Tilt</td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/invert-binary-tree/">Invert Binary Tree</td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/univalued-binary-tree/">Univalued Binary Tree</td>
-      <td>9.</td> <td><a href="https://leetcode.com/problems/same-tree/">Same Tree</td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/symmetric-tree">Symmetric Tree</td>
-    </tr>
-    <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/">Path In Zigzag Labelled Binary Tree</td>
-      <td>12.</td> <td><a href="https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/">Find a Corresponding Node of a Binary Tree in a Clone of That Tree</td>
-      <td>13.</td> <td><a href="https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/">Minimum Time to Collect All Apples in a Tree</td>
-      <td>14.</td> <td><a href="https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/">The k-th Lexicographical String of All Happy Strings of Length n</td>
-      <td>15.</td> <td><a href=""></td>
-    </tr>
-  </tbody>
-  </table>
 
 5.5. **Backtracking**
 
@@ -431,36 +403,7 @@
 
 16. **Hash Maps.**
 
-  * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/hashmaps.ipynb)
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/design-hashmap/">Design HashMap</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/lru-cache/">LRU Cache</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/top-k-frequent-elements/">Top K Frequent Elements</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/number-of-good-pairs/">Number of Good Pairs</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/maximum-erasure-value/">Maximum Erasure Value</td>
-    </tr>
-    <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/apply-discount-every-n-orders/">Apply Discount Every n Orders</td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/">Longest Arithmetic Subsequence of Given Difference</td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</td>
-      <td>9.</td> <td><a href="https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/">Restore the Array From Adjacent Pairs</td>     
-      <td>10.</td> <td><a href="https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/">Remove Zero Sum Consecutive Nodes from Linked List</td>
-    </tr>
-    <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/">Count Number of Pairs With Absolute Difference K</td>
-      <td>12.</td> <td><a href="https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/">Number of Pairs of Interchangeable Rectangles</td>
-      <td>13.</td> <td><a href="https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/">Check if All Characters Have Equal Number of Occurrences</td>
-      <td>14.</td> <td><a href=""></td>     
-      <td>15.</td> <td><a href=""></td>
-    </tr>
-  </tbody>
-  </table>
-
+* [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/hashmaps.ipynb)
 * Further Resources:
      - [Lectures on Hash Table](https://www.youtube.com/watch?v=2E54GqF0H4s&list=PLDV1Zeh2NRsDH5Wq-Vk5tDb8gH03cULZS)
 
@@ -488,38 +431,101 @@
 ## Problems Classified
 
 
- <details>
- <summary>Logic and Bits</summary>
- <table>
- <thead><tr> 
-    <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
- </tr></thead>
- <tbody>
-   <tr>
-     <td>1.</td> <td><a href="https://leetcode.com/problems/single-number/">Single Number</a></td>
-     <td>2.</td> <td><a href="https://leetcode.com/problems/power-of-two/">Power of Two</a></td>
-     <td>3.</td> <td><a href="https://leetcode.com/problems/number-of-1-bits/">Number of 1 Bits</a></td>
-     <td>4.</td> <td><a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square/">Determine Color of a Chessboard Square</a></td>
-     <td>5.</td> <td><a href="https://leetcode.com/problems/power-of-three/">Power of Three</a></td>
-   </tr>
-   <tr>
-     <td>6.</td> <td><a href="https://leetcode.com/problems/power-of-four/">Power of Four</a></td>
-     <td>7.</td> <td><a href="https://leetcode.com/problems/adding-two-negabinary-numbers/">Adding Two Negabinary Numbers</a></td>
-     <td>8.</td> <td><a href="https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/">Find Elements in a Contaminated Binary Tree</a></td>
-     <td>9.</td> <td><a href="https://leetcode.com/problems/gray-code/">Gray Code</a></td>
-     <td>10.</td> <td><a href="https://leetcode.com/problems/circular-permutation-in-binary-representation/">Circular Permutation in Binary Representation</a></td>
-   </tr>
-   <tr>
-     <td>11.</td> <td><a href="https://leetcode.com/problems/elimination-game/description/">Elimination Game</a></td>
-     <td>12.</td> <td><a href=""></a></td>
-     <td>13.</td> <td><a href=""></a></td>
-     <td>14.</td> <td><a href=""></a></td>
-     <td>15.</td> <td><a href=""></a></td>
-   </tr>
- </tbody>
- </table>
- </details>
+<details>
+<summary>Logic and Bits</summary>
+<table>
+<thead><tr> 
+   <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
+</tr></thead>
+<tbody>
+  <tr>
+    <td>1.</td> <td><a href="https://leetcode.com/problems/single-number/">Single Number</a></td>
+    <td>2.</td> <td><a href="https://leetcode.com/problems/power-of-two/">Power of Two</a></td>
+    <td>3.</td> <td><a href="https://leetcode.com/problems/number-of-1-bits/">Number of 1 Bits</a></td>
+    <td>4.</td> <td><a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square/">Determine Color of a Chessboard Square</a></td>
+    <td>5.</td> <td><a href="https://leetcode.com/problems/power-of-three/">Power of Three</a></td>
+  </tr>
+  <tr>
+    <td>6.</td> <td><a href="https://leetcode.com/problems/power-of-four/">Power of Four</a></td>
+    <td>7.</td> <td><a href="https://leetcode.com/problems/adding-two-negabinary-numbers/">Adding Two Negabinary Numbers</a></td>
+    <td>8.</td> <td><a href="https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/">Find Elements in a Contaminated Binary Tree</a></td>
+    <td>9.</td> <td><a href="https://leetcode.com/problems/gray-code/">Gray Code</a></td>
+    <td>10.</td> <td><a href="https://leetcode.com/problems/circular-permutation-in-binary-representation/">Circular Permutation in Binary Representation</a></td>
+  </tr>
+  <tr>
+    <td>11.</td> <td><a href="https://leetcode.com/problems/elimination-game/description/">Elimination Game</a></td>
+    <td>12.</td> <td><a href=""></a></td>
+    <td>13.</td> <td><a href=""></a></td>
+    <td>14.</td> <td><a href=""></a></td>
+    <td>15.</td> <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
+</details>
 
+<details>
+<summary>Binary Tree</summary>
+<table>
+<thead><tr> 
+   <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
+</tr></thead>
+<tbody>
+  <tr>
+    <td>1.</td> <td><a href="https://leetcode.com/problems/diameter-of-binary-tree/">Diameter of Binary Tree</a></td>
+    <td>2.</td> <td><a href="https://leetcode.com/problems/sum-root-to-leaf-numbers/">Sum Root to Leaf Numbers</a></td>
+    <td>3.</td> <td><a href="https://leetcode.com/problems/sum-of-left-leaves/">Sum of Left Leaves</a></td>
+    <td>4.</td> <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td> 
+    <td>5.</td> <td><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">Minimum Depth of Binary Tree</a></td>
+  </tr>
+  <tr>
+    <td>6.</td> <td><a href="https://leetcode.com/problems/binary-tree-tilt/">Binary Tree Tilt</a></td>
+    <td>7.</td> <td><a href="https://leetcode.com/problems/invert-binary-tree/">Invert Binary Tree</a></td>
+    <td>8.</td> <td><a href="https://leetcode.com/problems/univalued-binary-tree/">Univalued Binary Tree</a></td>
+    <td>9.</td> <td><a href="https://leetcode.com/problems/same-tree/">Same Tree</a></td>
+    <td>10.</td> <td><a href="https://leetcode.com/problems/symmetric-tree">Symmetric Tree</a></td>
+  </tr>
+  <tr>
+    <td>11.</td> <td><a href="https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/">Path In Zigzag Labelled Binary Tree</a></td>
+    <td>12.</td> <td><a href="https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/">Find a Corresponding Node of a Binary Tree in a Clone of That Tree</a></td>
+    <td>13.</td> <td><a href="https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/">Minimum Time to Collect All Apples in a Tree</a></td>
+    <td>14.</td> <td><a href="https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/">The k-th Lexicographical String of All Happy Strings of Length n</a></td>
+    <td>15.</td> <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary>Hash Maps</summary>
+<table>
+<thead><tr> 
+   <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
+</tr></thead>
+<tbody>
+  <tr>
+    <td>1.</td> <td><a href="https://leetcode.com/problems/design-hashmap/">Design HashMap</a></td>
+    <td>2.</td> <td><a href="https://leetcode.com/problems/lru-cache/">LRU Cache</a></td>
+    <td>3.</td> <td><a href="https://leetcode.com/problems/top-k-frequent-elements/">Top K Frequent Elements</a></td>
+    <td>4.</td> <td><a href="https://leetcode.com/problems/number-of-good-pairs/">Number of Good Pairs</a></td>
+    <td>5.</td> <td><a href="https://leetcode.com/problems/maximum-erasure-value/">Maximum Erasure Value</a></td>
+  </tr>
+  <tr>
+    <td>6.</td> <td><a href="https://leetcode.com/problems/apply-discount-every-n-orders/">Apply Discount Every n Orders</a></td>
+    <td>7.</td> <td><a href="https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/">Longest Arithmetic Subsequence of Given Difference</a></td>
+    <td>8.</td> <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</a></td>
+    <td>9.</td> <td><a href="https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/">Restore the Array From Adjacent Pairs</a></td>     
+    <td>10.</td> <td><a href="https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/">Remove Zero Sum Consecutive Nodes from Linked List</a></td>
+  </tr>
+  <tr>
+    <td>11.</td> <td><a href="https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/">Count Number of Pairs With Absolute Difference K</a></td>
+    <td>12.</td> <td><a href="https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/">Number of Pairs of Interchangeable Rectangles</a></td>
+    <td>13.</td> <td><a href="https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/">Check if All Characters Have Equal Number of Occurrences</a></td>
+    <td>14.</td> <td><a href=""></a></td>     
+    <td>15.</td> <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
+</details>
 
 ## For Future Extension
 

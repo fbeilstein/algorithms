@@ -52,35 +52,6 @@
 7. **Stack. Queue. Deque.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/stack_queue_dequeue.ipynb)
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/">Remove All Adjacent Duplicates in String II</a></td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a></td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/valid-parentheses/">Valid Parentheses</a></td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/implement-stack-using-queues/">Implement Stack using Queues</a></td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/implement-queue-using-stacks/">Implement Queue using Stacks</a></td>
-    </tr>
-    <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/next-greater-element-ii/">Next Greater Element II</a></td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/maximum-width-ramp/">Maximum Width Ramp</a></td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/find-the-most-competitive-subsequence/">Find the Most Competitive Subsequence</a></td>
-      <td>9.</td> <td><a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">Evaluate Reverse Polish Notation</a></td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/asteroid-collision/">Asteroid Collision</a></td>
-    </tr>
-    <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/next-greater-node-in-linked-list/">Next Greater Node In Linked List</a></td>
-      <td>12.</td> <td><a href="https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/">Minimum Number of Swaps to Make the String Balanced</a></td>
-      <td>13.</td> <td><a href="https://leetcode.com/problems/removing-stars-from-a-string/">Removing Stars From a String</a></td>
-      <td>14.</td> <td><a href="https://leetcode.com/problems/remove-k-digits/description/">Remove K Digits</a></td>
-      <td>15.</td> <td><a href=""></a></td>
-    </tr>
-  </tbody>
-  </table>
-
 
 8. **Sorting: Simple Sorting Algorithms, Stability.**
 
@@ -286,35 +257,6 @@
 14. **Introduction to Graphs. BFS. DFS.**
 
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/graphs_bfs_dfs.ipynb)
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/">All Nodes Distance K in Binary Tree</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/distribute-coins-in-binary-tree/">Distribute Coins in Binary Tree</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/">Minimum Number of Vertices to Reach All Nodes</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/shortest-path-in-binary-matrix/">Shortest Path in Binary Matrix</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/open-the-lock/">Open the Lock</td>
-    </tr>
-    <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/number-of-closed-islands/">Number of Closed Islands</td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/number-of-enclaves/">Number of Enclaves</td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/clone-graph/">Clone Graph</td>
-      <td>9.</td> <td><a href=""></td>
-      <td>10.</td> <td><a href=""></td>
-    </tr>
-    <tr>
-      <td>11.</td> <td><a href=""></td>
-      <td>12.</td> <td><a href=""></td>
-      <td>13.</td> <td><a href=""></td>
-      <td>14.</td> <td><a href=""></td>
-      <td>15.</td> <td><a href=""></td>
-    </tr>
-  </tbody>
-  </table>
-
 
 15. **Dynamic Programming**
 
@@ -432,6 +374,70 @@
     <td>6.</td> <td><a href="https://leetcode.com/problems/palindrome-partitioning/description/">Palindrome Partitioning</a></td>
     <td>7.</td> <td><a href=""></a></td>
     <td>8.</td> <td><a href=""></a></td>
+    <td>9.</td> <td><a href=""></a></td>
+    <td>10.</td> <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>11.</td> <td><a href=""></a></td>
+    <td>12.</td> <td><a href=""></a></td>
+    <td>13.</td> <td><a href=""></a></td>
+    <td>14.</td> <td><a href=""></a></td>
+    <td>15.</td> <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary>Stack. Queue. Deque.</summary>
+<table>
+<thead><tr> 
+   <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
+</tr></thead>
+<tbody>
+  <tr>
+    <td>1.</td> <td><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/">Remove All Adjacent Duplicates in String II</a></td>
+    <td>2.</td> <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a></td>
+    <td>3.</td> <td><a href="https://leetcode.com/problems/valid-parentheses/">Valid Parentheses</a></td>
+    <td>4.</td> <td><a href="https://leetcode.com/problems/implement-stack-using-queues/">Implement Stack using Queues</a></td>
+    <td>5.</td> <td><a href="https://leetcode.com/problems/implement-queue-using-stacks/">Implement Queue using Stacks</a></td>
+  </tr>
+  <tr>
+    <td>6.</td> <td><a href="https://leetcode.com/problems/next-greater-element-ii/">Next Greater Element II</a></td>
+    <td>7.</td> <td><a href="https://leetcode.com/problems/maximum-width-ramp/">Maximum Width Ramp</a></td>
+    <td>8.</td> <td><a href="https://leetcode.com/problems/find-the-most-competitive-subsequence/">Find the Most Competitive Subsequence</a></td>
+    <td>9.</td> <td><a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">Evaluate Reverse Polish Notation</a></td>
+    <td>10.</td> <td><a href="https://leetcode.com/problems/asteroid-collision/">Asteroid Collision</a></td>
+  </tr>
+  <tr>
+    <td>11.</td> <td><a href="https://leetcode.com/problems/next-greater-node-in-linked-list/">Next Greater Node In Linked List</a></td>
+    <td>12.</td> <td><a href="https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/">Minimum Number of Swaps to Make the String Balanced</a></td>
+    <td>13.</td> <td><a href="https://leetcode.com/problems/removing-stars-from-a-string/">Removing Stars From a String</a></td>
+    <td>14.</td> <td><a href="https://leetcode.com/problems/remove-k-digits/description/">Remove K Digits</a></td>
+    <td>15.</td> <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary>Introduction to Graphs. BFS. DFS.</summary>
+<table>
+<thead><tr> 
+   <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
+</tr></thead>
+<tbody>
+  <tr>
+    <td>1.</td> <td><a href="https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/">All Nodes Distance K in Binary Tree</a></td>
+    <td>2.</td> <td><a href="https://leetcode.com/problems/distribute-coins-in-binary-tree/">Distribute Coins in Binary Tree</a></td>
+    <td>3.</td> <td><a href="https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/">Minimum Number of Vertices to Reach All Nodes</a></td>
+    <td>4.</td> <td><a href="https://leetcode.com/problems/shortest-path-in-binary-matrix/">Shortest Path in Binary Matrix</a></td>
+    <td>5.</td> <td><a href="https://leetcode.com/problems/open-the-lock/">Open the Lock</a></td>
+  </tr>
+  <tr>
+    <td>6.</td> <td><a href="https://leetcode.com/problems/number-of-closed-islands/">Number of Closed Islands</a></td>
+    <td>7.</td> <td><a href="https://leetcode.com/problems/number-of-enclaves/">Number of Enclaves</a></td>
+    <td>8.</td> <td><a href="https://leetcode.com/problems/clone-graph/">Clone Graph</a></td>
     <td>9.</td> <td><a href=""></a></td>
     <td>10.</td> <td><a href=""></a></td>
   </tr>

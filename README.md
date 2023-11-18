@@ -4,86 +4,44 @@
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_01_methodology.ipynb)
 
 2. **Math. Complexity. O-notation.**
-
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_02_math_prerequisites.ipynb)
 
-
 3. **Logic and Bits.**
-
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_03_logic_and_bits.ipynb)   
   * Further Resources:
      - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
      - [NandGame](https://nandgame.com/)
 
-
 4. **Data Structures Overview**
-
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_04_data_structures.ipynb)
 
 5. **Recursion.**
-
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_05_recursion.ipynb)
   * Further Resources:
      - Manuel Rubio-Sánchez, Introduction to Recursive Programming
 
 6. **Linear Algorithms on Arrays 1**
-
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_06_linear_algorithms_on_arrays_1.ipynb)
 
 <img src="https://raw.githubusercontent.com/fbeilstein/machine_learning/master/geotag.png" width="250px"/>
 
 7. **Linear Algorithms on Arrays 2**
-
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_07_linear_algorithms_on_arrays_2.ipynb)
 
-
 8. **Monotonic Stack**
-
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_08_monotonic_stack.ipynb)
 
 5. **Binary Tree.**
-
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/binary_tree.ipynb)
 
 5.5. **Backtracking**
-
   * Lecture Notes in Colab (in progress)
 
 7. **Stack. Queue. Deque.**
-
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/stack_queue_dequeue.ipynb)
 
 8. **Sorting: Simple Sorting Algorithms, Stability.**
-
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/sorting_stability.ipynb)
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/insertion-sort-list/">Insertion Sort List</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/">How Many Numbers Are Smaller Than the Current Number</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/sort-colors/">Sort Colors</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/custom-sort-string/">Custom Sort String</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</td>
-    </tr>
-    <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/two-city-scheduling/">Two City Scheduling</td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/partition-list/">Partition List</td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/queue-reconstruction-by-height/">Queue Reconstruction by Height</td>
-      <td>9.</td> <td><a href="https://leetcode.com/problems/sort-list/">Sort List</td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/find-closest-number-to-zero/discuss/1955207/1-liners">Find Closest Number to Zero</td>
-    </tr>
-    <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/largest-number/description/">Largest Number</td>
-      <td>12.</td> <td><a href=""></td>
-      <td>13.</td> <td><a href=""></td>
-      <td>14.</td> <td><a href=""></td>
-      <td>15.</td> <td><a href=""></td>
-    </tr>
-  </tbody>
-  </table>
 
 
 9. **Sorting: Merge Sort and Quick Sort.**
@@ -182,88 +140,18 @@
 
 
 12. **Search Tree. Balancing.**
-
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/search_tree_balancing.ipynb)
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/search-in-a-binary-search-tree/">Search in a Binary Search Tree</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">Lowest Common Ancestor of a Binary Search Tree</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/trim-a-binary-search-tree/">Trim a Binary Search Tree</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/range-sum-of-bst/">Range Sum of BST</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/insert-into-a-binary-search-tree/">Insert into a Binary Search Tree</td>
-    </tr>
-    <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/balance-a-binary-search-tree/">Balance a Binary Search Tree</td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/increasing-order-search-tree/">Increasing Order Search Tree</td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/minimum-distance-between-bst-nodes/">Minimum Distance Between BST Nodes</td>
-      <td>9.</td> <td><a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst/">Kth Smallest Element in a BST</td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/">Convert Sorted Array to Binary Search Tree</td>
-    </tr>
-    <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/validate-binary-search-tree/">Validate Binary Search Tree</td>
-      <td>12.</td> <td><a href=""></td>
-      <td>13.</td> <td><a href=""></td>
-      <td>14.</td> <td><a href=""></td>
-      <td>15.</td> <td><a href=""></td>
-    </tr>
-  </tbody>
-  </table>
-
 
 13. **Strings.**
-
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/strings.ipynb)
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/remove-all-occurrences-of-a-substring/">Remove All Occurrences of a Substring</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/reverse-string-ii/">Reverse String II</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">Reverse Vowels of a String</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/">Maximum Nesting Depth of the Parentheses</td>
-    </tr>
-    <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/1-bit-and-2-bit-characters/">1-bit and 2-bit Characters</td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">Maximum Score After Splitting a String</td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/long-pressed-name/">Long Pressed Name</td>
-      <td>9.</td> <td><a href="https://leetcode.com/problems/is-subsequence/">Is Subsequence</td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/add-strings/">Add Strings</td>
-    </tr>
-    <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/ransom-note/">Ransom Note</td>
-      <td>12.</td> <td><a href="https://leetcode.com/problems/maximum-number-of-balloons/">Maximum Number of Balloons</td>
-      <td>13.</td> <td><a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters/">Largest Substring Between Two Equal Characters</td>
-      <td>14.</td> <td><a href="https://leetcode.com/problems/consecutive-characters/">Consecutive Characters</td>
-      <td>15.</td> <td><a href="https://leetcode.com/problems/count-and-say/">Count and Say</td>
-    </tr>
-    <tr>
-      <td>16.</td> <td><a href="https://leetcode.com/problems/shortest-distance-to-a-character/">Shortest Distance to a Character</td>
-      <td>17.</td> <td><a href=""></td>
-      <td>18.</td> <td><a href=""></td>
-      <td>19.</td> <td><a href=""></td>
-      <td>20.</td> <td><a href=""></td>
-    </tr>
-  </tbody>
-  </table>
-
 
 14. **Introduction to Graphs. BFS. DFS.**
-
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/graphs_bfs_dfs.ipynb)
 
 15. **Dynamic Programming**
-
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/dynamic_programming.ipynb)
 
 16. **Hash Maps.**
-
 * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/hashmaps.ipynb)
 * Further Resources:
      - [Lectures on Hash Table](https://www.youtube.com/watch?v=2E54GqF0H4s&list=PLDV1Zeh2NRsDH5Wq-Vk5tDb8gH03cULZS)
@@ -415,6 +303,109 @@
     <td>13.</td> <td><a href="https://leetcode.com/problems/removing-stars-from-a-string/">Removing Stars From a String</a></td>
     <td>14.</td> <td><a href="https://leetcode.com/problems/remove-k-digits/description/">Remove K Digits</a></td>
     <td>15.</td> <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary>Sorting: Simple Sorting Algorithms, Stability.</summary>
+<table>
+<thead><tr> 
+   <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
+</tr></thead>
+<tbody>
+  <tr>
+    <td>1.</td> <td><a href="https://leetcode.com/problems/insertion-sort-list/">Insertion Sort List</a></td>
+    <td>2.</td> <td><a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/">How Many Numbers Are Smaller Than the Current Number</a></td>
+    <td>3.</td> <td><a href="https://leetcode.com/problems/sort-colors/">Sort Colors</a></td>
+    <td>4.</td> <td><a href="https://leetcode.com/problems/custom-sort-string/">Custom Sort String</a></td>
+    <td>5.</td> <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</a></td>
+  </tr>
+  <tr>
+    <td>6.</td> <td><a href="https://leetcode.com/problems/two-city-scheduling/">Two City Scheduling</a></td>
+    <td>7.</td> <td><a href="https://leetcode.com/problems/partition-list/">Partition List</a></td>
+    <td>8.</td> <td><a href="https://leetcode.com/problems/queue-reconstruction-by-height/">Queue Reconstruction by Height</a></td>
+    <td>9.</td> <td><a href="https://leetcode.com/problems/sort-list/">Sort List</a></td>
+    <td>10.</td> <td><a href="https://leetcode.com/problems/find-closest-number-to-zero/discuss/1955207/1-liners">Find Closest Number to Zero</a></td>
+  </tr>
+  <tr>
+    <td>11.</td> <td><a href="https://leetcode.com/problems/largest-number/description/">Largest Number</a></td>
+    <td>12.</td> <td><a href=""></a></td>
+    <td>13.</td> <td><a href=""></a></td>
+    <td>14.</td> <td><a href=""></a></td>
+    <td>15.</td> <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary>Search Tree. Balancing.</summary>
+<table>
+<thead><tr> 
+   <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
+</tr></thead>
+<tbody>
+  <tr>
+    <td>1.</td> <td><a href="https://leetcode.com/problems/search-in-a-binary-search-tree/">Search in a Binary Search Tree</a></td>
+    <td>2.</td> <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">Lowest Common Ancestor of a Binary Search Tree</a></td>
+    <td>3.</td> <td><a href="https://leetcode.com/problems/trim-a-binary-search-tree/">Trim a Binary Search Tree</a></td>
+    <td>4.</td> <td><a href="https://leetcode.com/problems/range-sum-of-bst/">Range Sum of BST</a></td>
+    <td>5.</td> <td><a href="https://leetcode.com/problems/insert-into-a-binary-search-tree/">Insert into a Binary Search Tree</a></td>
+  </tr>
+  <tr>
+    <td>6.</td> <td><a href="https://leetcode.com/problems/balance-a-binary-search-tree/">Balance a Binary Search Tree</a></td>
+    <td>7.</td> <td><a href="https://leetcode.com/problems/increasing-order-search-tree/">Increasing Order Search Tree</a></td>
+    <td>8.</td> <td><a href="https://leetcode.com/problems/minimum-distance-between-bst-nodes/">Minimum Distance Between BST Nodes</a></td>
+    <td>9.</td> <td><a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst/">Kth Smallest Element in a BST</a></td>
+    <td>10.</td> <td><a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/">Convert Sorted Array to Binary Search Tree</a></td>
+  </tr>
+  <tr>
+    <td>11.</td> <td><a href="https://leetcode.com/problems/validate-binary-search-tree/">Validate Binary Search Tree</a></td>
+    <td>12.</td> <td><a href=""></a></td>
+    <td>13.</td> <td><a href=""></a></td>
+    <td>14.</td> <td><a href=""></a></td>
+    <td>15.</td> <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary>Strings.</summary>
+<table>
+<thead><tr> 
+   <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
+</tr></thead>
+<tbody>
+  <tr>
+    <td>1.</td> <td><a href="https://leetcode.com/problems/remove-all-occurrences-of-a-substring/">Remove All Occurrences of a Substring</a></td>
+    <td>2.</td> <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</a></td>
+    <td>3.</td> <td><a href="https://leetcode.com/problems/reverse-string-ii/">Reverse String II</a></td>
+    <td>4.</td> <td><a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">Reverse Vowels of a String</a></td>
+    <td>5.</td> <td><a href="https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/">Maximum Nesting Depth of the Parentheses</a></td>
+  </tr>
+  <tr>
+    <td>6.</td> <td><a href="https://leetcode.com/problems/1-bit-and-2-bit-characters/">1-bit and 2-bit Characters</a></td>
+    <td>7.</td> <td><a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">Maximum Score After Splitting a String</a></td>
+    <td>8.</td> <td><a href="https://leetcode.com/problems/long-pressed-name/">Long Pressed Name</a></td>
+    <td>9.</td> <td><a href="https://leetcode.com/problems/is-subsequence/">Is Subsequence</a></td>
+    <td>10.</td> <td><a href="https://leetcode.com/problems/add-strings/">Add Strings</a></td>
+  </tr>
+  <tr>
+    <td>11.</td> <td><a href="https://leetcode.com/problems/ransom-note/">Ransom Note</a></td>
+    <td>12.</td> <td><a href="https://leetcode.com/problems/maximum-number-of-balloons/">Maximum Number of Balloons</a></td>
+    <td>13.</td> <td><a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters/">Largest Substring Between Two Equal Characters</a></td>
+    <td>14.</td> <td><a href="https://leetcode.com/problems/consecutive-characters/">Consecutive Characters</a></td>
+    <td>15.</td> <td><a href="https://leetcode.com/problems/count-and-say/">Count and Say</a></td>
+  </tr>
+  <tr>
+    <td>16.</td> <td><a href="https://leetcode.com/problems/shortest-distance-to-a-character/">Shortest Distance to a Character</a></td>
+    <td>17.</td> <td><a href=""></a></td>
+    <td>18.</td> <td><a href=""></a></td>
+    <td>19.</td> <td><a href=""></a></td>
+    <td>20.</td> <td><a href=""></a></td>
   </tr>
 </tbody>
 </table>

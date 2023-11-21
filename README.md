@@ -43,101 +43,16 @@
 8. **Sorting: Simple Sorting Algorithms, Stability.**
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/sorting_stability.ipynb)
 
-
 9. **Sorting: Merge Sort and Quick Sort.**
-
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/merge_sort_quick_sort.ipynb)
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/insertion-sort-list/">Insertion Sort List</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/">How Many Numbers Are Smaller Than the Current Number</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/sort-colors/">Sort Colors</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/custom-sort-string/">Custom Sort String</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</td>
-    </tr>
-    <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/two-city-scheduling/">Two City Scheduling</td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/partition-list/">Partition List</td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/partition-array-according-to-given-pivot/">Partition Array According to Given Pivot</td>
-      <td>9.</td> <td><a href=""></td>
-      <td>10.</td> <td><a href=""></td>
-    </tr>
-  </tbody>
-  </table>
-
 
 10. **Heap. Heap Sort. Priority Queue.**
-
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/heap_priority_queue.ipynb)
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/remove-stones-to-minimize-the-total/">Remove Stones to Minimize the Total</a></td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/seat-reservation-manager/">Seat Reservation Manager</a></td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/find-median-from-data-stream/">Find Median from Data Stream</a></td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/furthest-building-you-can-reach/submissions/">Furthest Building You Can Reach</a></td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/total-cost-to-hire-k-workers/description/">Total Cost to Hire K Workers</a></td>
-    </tr>
-    <tr>
-      <td>6.</td> <td><a href=""></a></td>
-      <td>7.</td> <td><a href=""></a></td>
-      <td>8.</td> <td><a href=""></a></td>
-      <td>9.</td> <td><a href=""></a></td>
-      <td>10.</td> <td><a href=""></a></td>
-    </tr>
-    <tr>
-      <td>11.</td> <td><a href=""></a></td>
-      <td>12.</td> <td><a href=""></a></td>
-      <td>13.</td> <td><a href=""></a></td>
-      <td>14.</td> <td><a href=""></a></td>
-      <td>15.</td> <td><a href=""></a></td>
-    </tr>
-  </tbody>
-  </table>
-
 
 11. **Divide and Conquer. Binary Search.**
-
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/divide_and_conquer_binary_search.ipynb)
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/beautiful-array/">Beautiful Array</a></td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/count-complete-tree-nodes/">Count Complete Tree Nodes</a></td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Median of Two Sorted Arrays</a></td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in Rotated Sorted Array</a></td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/two-sum/">Two Sum</a></td>
-    </tr>
-    <tr>
-      <td>6.</td>  <td><a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">Single Element in a Sorted Array</a></td>
-      <td>7.</td>  <td><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak Index in a Mountain Array</a></td>
-      <td>8.</td>  <td><a href="https://leetcode.com/problems/find-peak-element/">Find Peak Element</a></td>
-      <td>9.</td>  <td><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Find Minimum in Rotated Sorted Array</a></td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/">Minimum Limit of Balls in a Bag</a></td>
-    </tr>
-    <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/sqrtx/">Sqrt(x)</a></td>
-      <td>12.</td> <td><a href="https://leetcode.com/problems/koko-eating-bananas/">Koko Eating Bananas</a></td>
-      <td>13.</td> <td><a href="https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/">Capacity To Ship Packages Within D Days</a></td>
-      <td>14.</td> <td><a href="https://leetcode.com/problems/maximum-subarray/description/">Maximum Subarray</a></td>
-      <td>15.</td> <td><a href="https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/description/">Maximum Value at a Given Index in a Bounded Array</a></td>
-    </tr>
-  </tbody>
-  </table>
-  
   * Further Resources:
      - [visual explanation](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/1058873/visual-explanation)  
-
 
 12. **Search Tree. Balancing.**
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/search_tree_balancing.ipynb)
@@ -158,7 +73,13 @@
 
 ## Cool Separate Lectures
 
-* [Skip Lists](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/Skiplist.ipynb)
+* **Skip Lists**
+  - [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/Skiplist.ipynb)
+  - Further Resources:
+     + [A Skip List Cookbook](https://scheme.inlab.net/reference-manual/data-types/skiplist.files/A-Skip-List-Cookbook.pdf)
+     + [Skip Lists: A Probabilistic Alternative to Balanced Trees](https://15721.courses.cs.cmu.edu/spring2018/papers/08-oltpindexes1/pugh-skiplists-cacm1990.pdf)
+     + [Skip Lists [Video]](https://www.youtube.com/watch?v=NDGpsfwAaqo)
+
 
 ## Methodological Notes
 
@@ -179,6 +100,140 @@
 
 ## Problems Classified
 
+<details>
+<summary>Common Sense</summary>
+<table>
+<thead><tr> 
+   <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
+</tr></thead>
+<tbody>
+  <tr>
+    <td>1.</td> <td><a href="https://leetcode.com/problems/ugly-number/">Ugly Number</a></td>
+    <td>2.</td> <td><a href="https://leetcode.com/problems/reverse-integer/">Reverse Integer</a></td>
+    <td>3.</td> <td><a href="https://leetcode.com/problems/palindrome-number/solution/">Palindrome Number</a></td>
+    <td>4.</td> <td><a href="https://leetcode.com/problems/powx-n/">Pow(x, n)</a></td>
+    <td>5.</td> <td><a href="https://leetcode.com/problems/water-and-jug-problem/">Water and Jug Problem</a></td>
+  </tr>
+  <tr>
+    <td>6.</td>  <td><a href="https://leetcode.com/problems/nth-digit/">Nth Digit</a></td>
+    <td>7.</td>  <td><a href="https://leetcode.com/problems/random-pick-with-weight/">Random Pick with Weight</a></td>
+    <td>8.</td>  <td><a href="https://leetcode.com/problems/bulb-switcher/">Bulb Switcher</a></td>
+    <td>9.</td>  <td><a href="https://leetcode.com/problems/bulb-switcher-ii/">Bulb Switcher II</a></td>
+    <td>10.</td> <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary>Arrays. Running Sum</summary>
+<table>
+<thead><tr> 
+   <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>
+</tr></thead>
+<tbody>
+  <tr>
+    <td>1.</td> <td><a href="https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/">Minimum Value to Get Positive Step by Step Sum</a></td>
+    <td>2.</td> <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/">Best Time to Buy and Sell Stock II</a></td>
+    <td>3.</td> <td><a href="https://leetcode.com/problems/range-addition-ii/">Range Addition II</a></td>
+    <td>4.</td> <td><a href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</a></td>
+    <td>5.</td> <td><a href="https://leetcode.com/problems/n-repeated-element-in-size-2n-array/">N-Repeated Element in Size 2N Array</a></td> 
+  </tr>
+  <tr>
+    <td>6.</td>  <td><a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
+    <td>7.</td>  <td><a href="https://leetcode.com/problems/rotate-image/">Rotate Image</a></td>
+    <td>8.</td>  <td><a href="https://leetcode.com/problems/find-the-duplicate-number/">Find the Duplicate Number</a></td>
+    <td>9.</td>  <td><a href="https://leetcode.com/problems/partition-array-into-disjoint-intervals/">Partition Array into Disjoint Intervals</a></td>
+    <td>10.</td> <td><a href="https://leetcode.com/problems/valid-mountain-array/">Valid Mountain Array</a></td>
+  </tr> 
+  <tr>
+    <td>11.</td> <td><a href="https://leetcode.com/problems/defuse-the-bomb/">Defuse the Bomb</a></td>
+    <td>12.</td> <td><a href="https://leetcode.com/problems/most-visited-sector-in-a-circular-track/">Most Visited Sector in a Circular Track</a></td>
+    <td>13.</td> <td><a href="https://leetcode.com/problems/next-permutation/description/">Next Permutation</a></td>
+    <td>14.</td> <td><a href="https://leetcode.com/problems/permutations-ii/description/">Permutations II</a></td>
+    <td>15.</td> <td><a href="https://leetcode.com/problems/monotone-increasing-digits/description/">Monotone Increasing Digits</a></td>
+  </tr>
+  <tr>
+    <td>16.</td> <td><a href="https://leetcode.com/problems/increasing-triplet-subsequence/description/">Increasing Triplet Subsequence</a></td>
+    <td>17.</td> <td><a href="https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/">Longest Substring with At Least K Repeating Characters</a></td>
+    <td>18.</td> <td><a href=""></a></td>
+    <td>19.</td> <td><a href=""></a></td>
+    <td>20.</td> <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary>Arrays. Two Pointers.</summary>
+<table>
+<thead><tr> 
+   <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>
+</tr></thead>
+<tbody>
+  <tr>
+    <td>1.</td> <td><a href="https://leetcode.com/problems/arithmetic-slices/">Arithmetic Slices</a></td>
+    <td>2.</td> <td><a href="https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/">Detect Pattern of Length M Repeated K or More Times</a></td>
+    <td>3.</td> <td><a href="https://leetcode.com/problems/longest-continuous-increasing-subsequence/">Longest Continuous Increasing Subsequence</a></td>
+    <td>4.</td> <td><a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</a></td>
+    <td>5.</td> <td><a href="https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/">Maximum Distance Between a Pair of Values</a></td>
+  </tr>
+  <tr>
+    <td>6.</td> <td><a href="https://leetcode.com/problems/replace-the-substring-for-balanced-string/">Replace the Substring for Balanced String</a></td>
+    <td>7.</td> <td><a href="https://leetcode.com/problems/sort-colors/">Sort Colors</a></td>
+    <td>8.</td> <td><a href="https://leetcode.com/problems/number-of-substrings-with-only-1s/">Number of Substrings With Only 1s</a></td>
+    <td>9.</td> <td><a href="https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/">Maximum Distance Between a Pair of Values</a></td>
+    <td>10.</td> <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
+  </tr> 
+  <tr>
+    <td>11.</td> <td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Minimum Size Subarray Sum</a></td>
+    <td>12.</td> <td><a href="https://leetcode.com/problems/rotate-array/">Rotate Array</a></td>
+    <td>13.</td> <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</a></td>
+    <td>14.</td> <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</a></td>
+    <td>15.</td> <td><a href="https://leetcode.com/problems/move-zeroes/">Move Zeroes</a></td>
+  </tr>
+  <tr>
+    <td>16.</td> <td><a href="https://leetcode.com/problems/sum-of-square-numbers/">Sum of Square Numbers</a></td>
+    <td>17.</td> <td><a href="https://leetcode.com/problems/permutation-in-string/">Permutation in String</a></td>
+    <td>18.</td> <td><a href="https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/">Shortest Subarray to be Removed to Make Array Sorted</a></td>
+    <td>19.</td> <td><a href=""></a></td>
+    <td>20.</td> <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary>Lists. Difference Between Iterative and Recursive Approaches.</summary>
+<table>
+<thead><tr> 
+   <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
+</tr></thead>
+<tbody>
+  <tr>
+    <td>1.</td> <td><a href="https://leetcode.com/problems/delete-node-in-a-linked-list/">Delete Node in a Linked List</a></td>
+    <td>2.</td> <td><a href="https://leetcode.com/problems/linked-list-cycle/">Linked List Cycle</a></td>
+    <td>3.</td> <td><a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">Intersection of Two Linked Lists</a></td>
+    <td>4.</td> <td><a href="https://leetcode.com/problems/palindrome-linked-list/">Palindrome Linked List</a></td>
+    <td>5.</td> <td><a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</a></td>
+  </tr>
+  <tr>
+   <td>6.</td> <td><a href="https://leetcode.com/problems/odd-even-linked-list/">Odd Even Linked List</a></td>
+   <td>7.</td> <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/">Remove Duplicates from Sorted List II</a></td>
+   <td>8.</td> <td><a href="https://leetcode.com/problems/merge-in-between-linked-lists/">Merge In Between Linked Lists</a></td>
+   <td>9.</td> <td><a href="https://leetcode.com/problems/reverse-linked-list-ii/">Reverse Linked List II</a></td>
+   <td>10.</td> <td><a href="https://leetcode.com/problems/split-linked-list-in-parts/">Split Linked List in Parts</a></td>
+  </tr>
+  <tr>
+   <td>11.</td> <td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</a></td>
+   <td>12.</td> <td><a href="https://leetcode.com/problems/design-linked-list/">Design Linked List</a></td>
+   <td>13.</td> <td><a href=""></a></td>
+   <td>14.</td> <td><a href=""></a></td>
+   <td>15.</td> <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
+</details>
 
 <details>
 <summary>Logic and Bits</summary>
@@ -335,6 +390,95 @@
     <td>13.</td> <td><a href=""></a></td>
     <td>14.</td> <td><a href=""></a></td>
     <td>15.</td> <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary>Sorting: Merge Sort and Quick Sort.</summary>
+<table>
+<thead><tr> 
+   <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
+</tr></thead>
+<tbody>
+  <tr>
+    <td>1.</td> <td><a href="https://leetcode.com/problems/insertion-sort-list/">Insertion Sort List</a></td>
+    <td>2.</td> <td><a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/">How Many Numbers Are Smaller Than the Current Number</a></td>
+    <td>3.</td> <td><a href="https://leetcode.com/problems/sort-colors/">Sort Colors</a></td>
+    <td>4.</td> <td><a href="https://leetcode.com/problems/custom-sort-string/">Custom Sort String</a></td>
+    <td>5.</td> <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</a></td>
+  </tr>
+  <tr>
+    <td>6.</td> <td><a href="https://leetcode.com/problems/two-city-scheduling/">Two City Scheduling</a></td>
+    <td>7.</td> <td><a href="https://leetcode.com/problems/partition-list/">Partition List</a></td>
+    <td>8.</td> <td><a href="https://leetcode.com/problems/partition-array-according-to-given-pivot/">Partition Array According to Given Pivot</a></td>
+    <td>9.</td> <td><a href=""></a></td>
+    <td>10.</td> <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary>Heap. Heap Sort. Priority Queue.</summary>
+<table>
+<thead><tr> 
+   <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
+</tr></thead>
+<tbody>
+  <tr>
+    <td>1.</td> <td><a href="https://leetcode.com/problems/remove-stones-to-minimize-the-total/">Remove Stones to Minimize the Total</a></td>
+    <td>2.</td> <td><a href="https://leetcode.com/problems/seat-reservation-manager/">Seat Reservation Manager</a></td>
+    <td>3.</td> <td><a href="https://leetcode.com/problems/find-median-from-data-stream/">Find Median from Data Stream</a></td>
+    <td>4.</td> <td><a href="https://leetcode.com/problems/furthest-building-you-can-reach/submissions/">Furthest Building You Can Reach</a></td>
+    <td>5.</td> <td><a href="https://leetcode.com/problems/total-cost-to-hire-k-workers/description/">Total Cost to Hire K Workers</a></td>
+  </tr>
+  <tr>
+    <td>6.</td> <td><a href=""></a></td>
+    <td>7.</td> <td><a href=""></a></td>
+    <td>8.</td> <td><a href=""></a></td>
+    <td>9.</td> <td><a href=""></a></td>
+    <td>10.</td> <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>11.</td> <td><a href=""></a></td>
+    <td>12.</td> <td><a href=""></a></td>
+    <td>13.</td> <td><a href=""></a></td>
+    <td>14.</td> <td><a href=""></a></td>
+    <td>15.</td> <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
+</details>
+
+<details>
+<summary>Divide and Conquer. Binary Search.</summary>
+<table>
+<thead><tr> 
+   <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
+</tr></thead>
+<tbody>
+  <tr>
+    <td>1.</td> <td><a href="https://leetcode.com/problems/beautiful-array/">Beautiful Array</a></td>
+    <td>2.</td> <td><a href="https://leetcode.com/problems/count-complete-tree-nodes/">Count Complete Tree Nodes</a></td>
+    <td>3.</td> <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Median of Two Sorted Arrays</a></td>
+    <td>4.</td> <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in Rotated Sorted Array</a></td>
+    <td>5.</td> <td><a href="https://leetcode.com/problems/two-sum/">Two Sum</a></td>
+  </tr>
+  <tr>
+    <td>6.</td>  <td><a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">Single Element in a Sorted Array</a></td>
+    <td>7.</td>  <td><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak Index in a Mountain Array</a></td>
+    <td>8.</td>  <td><a href="https://leetcode.com/problems/find-peak-element/">Find Peak Element</a></td>
+    <td>9.</td>  <td><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Find Minimum in Rotated Sorted Array</a></td>
+    <td>10.</td> <td><a href="https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/">Minimum Limit of Balls in a Bag</a></td>
+  </tr>
+  <tr>
+    <td>11.</td> <td><a href="https://leetcode.com/problems/sqrtx/">Sqrt(x)</a></td>
+    <td>12.</td> <td><a href="https://leetcode.com/problems/koko-eating-bananas/">Koko Eating Bananas</a></td>
+    <td>13.</td> <td><a href="https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/">Capacity To Ship Packages Within D Days</a></td>
+    <td>14.</td> <td><a href="https://leetcode.com/problems/maximum-subarray/description/">Maximum Subarray</a></td>
+    <td>15.</td> <td><a href="https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/description/">Maximum Value at a Given Index in a Bounded Array</a></td>
   </tr>
 </tbody>
 </table>
@@ -528,6 +672,38 @@
 </table>
 </details>
 
+<details>
+<summary>Union-Find</summary>
+<table>
+<thead><tr> 
+   <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
+</tr></thead>
+<tbody>
+  <tr>
+    <td>1.</td> <td><a href="https://leetcode.com/problems/redundant-connection/">Redundant Connection</a></td>
+    <td>2.</td> <td><a href=""></a></td>
+    <td>3.</td> <td><a href=""></a></td>
+    <td>4.</td> <td><a href=""></a></td>
+    <td>5.</td> <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>6.</td> <td><a href=""></a></td>
+    <td>7.</td> <td><a href=""></a></td>
+    <td>8.</td> <td><a href=""></a></td>
+    <td>9.</td> <td><a href=""></a></td>
+    <td>10.</td> <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td>11.</td> <td><a href=""></a></td>
+    <td>12.</td> <td><a href=""></a></td>
+    <td>13.</td> <td><a href=""></a></td>
+    <td>14.</td> <td><a href=""></a></td>
+    <td>15.</td> <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
+</details>
+
 ## For Future Extension
 
 
@@ -564,228 +740,13 @@
 
 14. **Combinatorial Problems.**
 
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href=""></td>
-      <td>2.</td> <td><a href=""></td>
-      <td>3.</td> <td><a href=""></td>
-      <td>4.</td> <td><a href=""></td>
-      <td>5.</td> <td><a href=""></td>
-    </tr>
-    <tr>
-      <td>6.</td> <td><a href=""></td>
-      <td>7.</td> <td><a href=""></td>
-      <td>8.</td> <td><a href=""></td>
-      <td>9.</td> <td><a href=""></td>
-      <td>10.</td> <td><a href=""></td>
-    </tr>
-    <tr>
-      <td>11.</td> <td><a href=""></td>
-      <td>12.</td> <td><a href=""></td>
-      <td>13.</td> <td><a href=""></td>
-      <td>14.</td> <td><a href=""></td>
-      <td>15.</td> <td><a href=""></td>
-    </tr>
-  </tbody>
-  </table>
-
 15. **FFT.**
 
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href=""></td>
-      <td>2.</td> <td><a href=""></td>
-      <td>3.</td> <td><a href=""></td>
-      <td>4.</td> <td><a href=""></td>
-      <td>5.</td> <td><a href=""></td>
-    </tr>
-    <tr>
-      <td>6.</td> <td><a href=""></td>
-      <td>7.</td> <td><a href=""></td>
-      <td>8.</td> <td><a href=""></td>
-      <td>9.</td> <td><a href=""></td>
-      <td>10.</td> <td><a href=""></td>
-    </tr>
-    <tr>
-      <td>11.</td> <td><a href=""></td>
-      <td>12.</td> <td><a href=""></td>
-      <td>13.</td> <td><a href=""></td>
-      <td>14.</td> <td><a href=""></td>
-      <td>15.</td> <td><a href=""></td>
-    </tr>
-  </tbody>
-  </table>
-
-
 . **Union-Find**
-
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/redundant-connection/">Redundant Connection</td>
-      <td>2.</td> <td><a href=""></td>
-      <td>3.</td> <td><a href=""></td>
-      <td>4.</td> <td><a href=""></td>
-      <td>5.</td> <td><a href=""></td>
-    </tr>
-    <tr>
-      <td>6.</td> <td><a href=""></td>
-      <td>7.</td> <td><a href=""></td>
-      <td>8.</td> <td><a href=""></td>
-      <td>9.</td> <td><a href=""></td>
-      <td>10.</td> <td><a href=""></td>
-    </tr>
-    <tr>
-      <td>11.</td> <td><a href=""></td>
-      <td>12.</td> <td><a href=""></td>
-      <td>13.</td> <td><a href=""></td>
-      <td>14.</td> <td><a href=""></td>
-      <td>15.</td> <td><a href=""></td>
-    </tr>
-  </tbody>
-  </table>
-       
-. **Unclassified**
-
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th> 
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/ugly-number/">Ugly Number</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/reverse-integer/">Reverse Integer</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/palindrome-number/solution/">Palindrome Number</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/powx-n/">Pow(x, n)</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/water-and-jug-problem/">Water and Jug Problem</td>
-    </tr>
-    <tr>
-      <td>6.</td>  <td><a href="https://leetcode.com/problems/nth-digit/">Nth Digit</td>
-      <td>7.</td>  <td><a href="https://leetcode.com/problems/random-pick-with-weight/">Random Pick with Weight</td>
-      <td>8.</td>  <td><a href="https://leetcode.com/problems/bulb-switcher/">Bulb Switcher</td>
-      <td>9.</td>  <td><a href="https://leetcode.com/problems/bulb-switcher-ii/">Bulb Switcher II</td>
-      <td>10.</td> <td><a href=""></td>
-    </tr>
-  </tbody>
-  </table>
-
+   
 . **Arrays**
-
   * [running sum](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/arrays_running_sum.ipynb)
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/">Minimum Value to Get Positive Step by Step Sum</a></td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/">Best Time to Buy and Sell Stock II</a></td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/range-addition-ii/">Range Addition II</a></td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</a></td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/n-repeated-element-in-size-2n-array/">N-Repeated Element in Size 2N Array</a></td> 
-    </tr>
-    <tr>
-      <td>6.</td>  <td><a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
-      <td>7.</td>  <td><a href="https://leetcode.com/problems/rotate-image/">Rotate Image</a></td>
-      <td>8.</td>  <td><a href="https://leetcode.com/problems/find-the-duplicate-number/">Find the Duplicate Number</a></td>
-      <td>9.</td>  <td><a href="https://leetcode.com/problems/partition-array-into-disjoint-intervals/">Partition Array into Disjoint Intervals</a></td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/valid-mountain-array/">Valid Mountain Array</a></td>
-    </tr> 
-    <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/defuse-the-bomb/">Defuse the Bomb</a></td>
-      <td>12.</td> <td><a href="https://leetcode.com/problems/most-visited-sector-in-a-circular-track/">Most Visited Sector in a Circular Track</a></td>
-      <td>13.</td> <td><a href="https://leetcode.com/problems/next-permutation/description/">Next Permutation</a></td>
-      <td>14.</td> <td><a href="https://leetcode.com/problems/permutations-ii/description/">Permutations II</a></td>
-      <td>15.</td> <td><a href="https://leetcode.com/problems/monotone-increasing-digits/description/">Monotone Increasing Digits</a></td>
-    </tr>
-    <tr>
-      <td>16.</td> <td><a href="https://leetcode.com/problems/increasing-triplet-subsequence/description/">Increasing Triplet Subsequence</a></td>
-      <td>17.</td> <td><a href="https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/">Longest Substring with At Least K Repeating Characters</a></td>
-      <td>18.</td> <td><a href=""></a></td>
-      <td>19.</td> <td><a href=""></a></td>
-      <td>20.</td> <td><a href=""></a></td>
-    </tr>
-
-  </tbody>
-  </table>
-
-* [two pointers](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/arrays_two_pointers.ipynb)
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>  <th>#</th> <th>Problem</th>
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/arithmetic-slices/">Arithmetic Slices</a></td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/">Detect Pattern of Length M Repeated K or More Times</a></td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/longest-continuous-increasing-subsequence/">Longest Continuous Increasing Subsequence</a></td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</a></td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/">Maximum Distance Between a Pair of Values</a></td>
-    </tr>
-    <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/replace-the-substring-for-balanced-string/">Replace the Substring for Balanced String</a></td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/sort-colors/">Sort Colors</a></td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/number-of-substrings-with-only-1s/">Number of Substrings With Only 1s</a></td>
-      <td>9.</td> <td><a href="https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/">Maximum Distance Between a Pair of Values</a></td>
-      <td>10.</td> <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
-    </tr> 
-    <tr>
-      <td>11.</td> <td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Minimum Size Subarray Sum</a></td>
-      <td>12.</td> <td><a href="https://leetcode.com/problems/rotate-array/">Rotate Array</a></td>
-      <td>13.</td> <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</a></td>
-      <td>14.</td> <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</a></td>
-      <td>15.</td> <td><a href="https://leetcode.com/problems/move-zeroes/">Move Zeroes</a></td>
-    </tr>
-    <tr>
-      <td>16.</td> <td><a href="https://leetcode.com/problems/sum-of-square-numbers/">Sum of Square Numbers</a></td>
-      <td>17.</td> <td><a href="https://leetcode.com/problems/permutation-in-string/">Permutation in String</a></td>
-      <td>18.</td> <td><a href="https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/">Shortest Subarray to be Removed to Make Array Sorted</a></td>
-      <td>19.</td> <td><a href=""></a></td>
-      <td>20.</td> <td><a href=""></a></td>
-    </tr>
-  </tbody>
-  </table>
-
+  * [two pointers](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/arrays_two_pointers.ipynb)
 
 . **Lists. Difference Between Iterative and Recursive Approaches.**
-
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lists.ipynb)
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/delete-node-in-a-linked-list/">Delete Node in a Linked List</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/linked-list-cycle/">Linked List Cycle</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">Intersection of Two Linked Lists</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/palindrome-linked-list/">Palindrome Linked List</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</td>
-    </tr>
-    <tr>
-     <td>6.</td> <td><a href="https://leetcode.com/problems/odd-even-linked-list/">Odd Even Linked List</td>
-     <td>7.</td> <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/">Remove Duplicates from Sorted List II</td>
-     <td>8.</td> <td><a href="https://leetcode.com/problems/merge-in-between-linked-lists/">Merge In Between Linked Lists</td>
-     <td>9.</td> <td><a href="https://leetcode.com/problems/reverse-linked-list-ii/">Reverse Linked List II</td>
-     <td>10.</td> <td><a href="https://leetcode.com/problems/split-linked-list-in-parts/">Split Linked List in Parts</td>
-    </tr>
-    <tr>
-     <td>11.</td> <td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</td>
-     <td>12.</td> <td><a href="https://leetcode.com/problems/design-linked-list/">Design Linked List</td>
-     <td>13.</td> <td><a href=""></td>
-     <td>14.</td> <td><a href=""></td>
-     <td>15.</td> <td><a href=""></td>
-    </tr>
-  </tbody>
-  </table>

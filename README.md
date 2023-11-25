@@ -707,40 +707,12 @@
 ## For Future Extension
 
 
-7. **Manipulating bits. Storing Tree as Array. Fenwick Tree (Binary Index Tree).**
-  
+. **Fenwick Tree (Binary Index Tree).**  
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/fenwick_tree.ipynb)
   
-  <table>
-  <thead><tr> 
-     <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th> <th>#</th> <th>Problem</th>
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>1.</td> <td><a href="https://leetcode.com/problems/single-number/">Single Number</td>
-      <td>2.</td> <td><a href="https://leetcode.com/problems/power-of-two/">Power of Two</td>
-      <td>3.</td> <td><a href="https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/">Find Elements in a Contaminated Binary Tree</td>
-      <td>4.</td> <td><a href="https://leetcode.com/problems/determine-color-of-a-chessboard-square/">Determine Color of a Chessboard Square</td>
-      <td>5.</td> <td><a href="https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/">Maximum Nesting Depth of Two Valid Parentheses Strings</td>
-    </tr>
-    <tr>
-      <td>6.</td> <td><a href="https://leetcode.com/problems/gray-code/">Gray Code</td>
-      <td>7.</td> <td><a href="https://leetcode.com/problems/circular-permutation-in-binary-representation/">Circular Permutation in Binary Representation</td>
-      <td>8.</td> <td><a href="https://leetcode.com/problems/neighboring-bitwise-xor/description/">Neighboring Bitwise XOR</td>
-      <td>9.</td> <td><a href=""></td>
-      <td>10.</td> <td><a href=""></td>
-    </tr>
-  </tbody>
-  </table>
-  
-  * Further Resources:
-     - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
-     - [NandGame](https://nandgame.com/)
+. **Combinatorial Problems.**
 
-
-14. **Combinatorial Problems.**
-
-15. **FFT.**
+. **FFT.**
 
 . **Union-Find**
    

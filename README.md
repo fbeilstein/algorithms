@@ -23,8 +23,6 @@
 6. **Linear Algorithms on Arrays 1**
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_06_linear_algorithms_on_arrays_1.ipynb)
 
-<img src="https://raw.githubusercontent.com/fbeilstein/machine_learning/master/geotag.png" width="250px"/>
-
 7. **Linear Algorithms on Arrays 2**
   * [Lecture Notes in Colab](https://colab.research.google.com/github/fbeilstein/algorithms/blob/master/lecture_07_linear_algorithms_on_arrays_2.ipynb)
 
